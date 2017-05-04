@@ -1,0 +1,47 @@
+//
+//  ProductViewController.m
+//  和治友德
+//
+//  Created by Mac on 16/12/13.
+//  Copyright © 2016年 com.zhichuang.hezhiyoude. All rights reserved.
+//
+
+#import "ProductViewController.h"
+#import "ProductTableViewCell.h"
+static  NSString * indetifier = @"cell";
+@interface ProductViewController ()
+
+@end
+
+@implementation ProductViewController
+
+- (void)viewDidLoad {
+    [super viewDidLoad];
+    // Do any additional setup after loading the view.
+//    self.automaticallyAdjustsScrollViewInsets = NO;
+    self.edgesForExtendedLayout = UIRectEdgeNone;
+   
+}
+
+- (void)didReceiveMemoryWarning {
+    [super didReceiveMemoryWarning];
+    // Dispose of any resources that can be recreated.
+}
+- (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section{
+    
+    
+    return 100;
+    
+}
+- (UITableViewCell*)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath{
+    
+    
+    ProductTableViewCell * cell = [tableView dequeueReusableCellWithIdentifier:indetifier];
+    
+    [cell loadContent];
+    
+    return cell;
+    
+}
+
+@end

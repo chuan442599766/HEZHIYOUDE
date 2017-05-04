@@ -1,0 +1,39 @@
+
+/* Class = "UILabel"; text = "201702272000403450"; ObjectID = "2OD-Tg-wzK"; */
+"2OD-Tg-wzK.text" = "201702272000403450";
+
+/* Class = "UILabel"; text = "商户订单号"; ObjectID = "8Ie-bZ-2H2"; */
+"8Ie-bZ-2H2.text" = "numéro d'ordre";
+
+/* Class = "UILabel"; text = "对方账户"; ObjectID = "9GE-fF-05B"; */
+"9GE-fF-05B.text" = "L'autre compte";
+
+/* Class = "UILabel"; text = "创建时间"; ObjectID = "AdI-S4-Uzf"; */
+"AdI-S4-Uzf.text" = "Heure de création";
+
+/* Class = "UILabel"; text = "+80.00"; ObjectID = "UHx-5k-flN"; */
+"UHx-5k-flN.text" = "+80.00";
+
+/* Class = "UILabel"; text = "转账说明"; ObjectID = "WQR-gT-CV4"; */
+"WQR-gT-CV4.text" = "transfert";
+
+/* Class = "UILabel"; text = "2017022745029031257"; ObjectID = "c8o-e4-AWQ"; */
+"c8o-e4-AWQ.text" = "2017022745029031257";
+
+/* Class = "UILabel"; text = "订单号"; ObjectID = "eCZ-Q0-r64"; */
+"eCZ-Q0-r64.text" = "Numéro d'ordre";
+
+/* Class = "UILabel"; text = "2017-02-27 11:54"; ObjectID = "eaJ-pR-wt2"; */
+"eaJ-pR-wt2.text" = "2017-02-27 11:54";
+
+/* Class = "UILabel"; text = "交易成功"; ObjectID = "f9J-aP-Y9R"; */
+"f9J-aP-Y9R.text" = "succès";
+
+/* Class = "UILabel"; text = "转账"; ObjectID = "ltK-2C-5ve"; */
+"ltK-2C-5ve.text" = "De transfert";
+
+/* Class = "UILabel"; text = "S2757  151****5467"; ObjectID = "rG9-cn-Gz0"; */
+"rG9-cn-Gz0.text" = "S2757  151****5467";
+
+/* Class = "UILabel"; text = "S2757"; ObjectID = "tBo-ky-Dgj"; */
+"tBo-ky-Dgj.text" = "S2757";

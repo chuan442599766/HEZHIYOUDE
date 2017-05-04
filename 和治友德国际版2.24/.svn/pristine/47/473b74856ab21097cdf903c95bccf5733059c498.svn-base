@@ -1,0 +1,264 @@
+
+/* Class = "UILabel"; text = "￥99.00"; ObjectID = "0ro-p5-3bz"; */
+"0ro-p5-3bz.text" = "￥99.00";
+
+/* Class = "UILabel"; text = "x1"; ObjectID = "1Gr-Qh-0HV"; */
+"1Gr-Qh-0HV.text" = "x1";
+
+/* Class = "UILabel"; text = "全选"; ObjectID = "1YZ-t3-neC"; */
+"1YZ-t3-neC.text" = "Select";
+
+/* Class = "UILabel"; text = "￥119.00"; ObjectID = "2S3-6L-cYn"; */
+"2S3-6L-cYn.text" = "￥119.00";
+
+/* Class = "UINavigationItem"; title = "确认订单"; ObjectID = "3Np-HY-tvb"; */
+"3Np-HY-tvb.title" = "ConfirmOrder";
+
+/* Class = "UILabel"; text = "购买数量"; ObjectID = "3ak-Yv-Fiu"; */
+"3ak-Yv-Fiu.text" = "nums";
+
+/* Class = "UILabel"; text = "￥139.00"; ObjectID = "3hF-Og-6C3"; */
+"3hF-Og-6C3.text" = "￥139.00";
+
+/* Class = "UIButton"; normalTitle = "待发货"; ObjectID = "4xl-fs-Api"; */
+"4xl-fs-Api.normalTitle" = "WOrder";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "60A-7Z-CR4"; */
+"60A-7Z-CR4.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "我的订单"; ObjectID = "77U-5c-Fcu"; */
+"77U-5c-Fcu.title" = "MyOrder";
+
+/* Class = "UILabel"; text = "x1"; ObjectID = "7k7-hR-kPN"; */
+"7k7-hR-kPN.text" = "x1";
+
+/* Class = "UIButton"; normalTitle = "收藏"; ObjectID = "8iG-0U-TKd"; */
+"8iG-0U-TKd.normalTitle" = "Collection";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9Ly-nz-1Hx"; */
+"9Ly-nz-1Hx.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "x1"; ObjectID = "9U0-wF-BbL"; */
+"9U0-wF-BbL.text" = "x1";
+
+/* Class = "UILabel"; text = "普通价："; ObjectID = "AMj-Hs-CbD"; */
+"AMj-Hs-CbD.text" = "Ordinary price：";
+
+/* Class = "UILabel"; text = "某宝旗舰店"; ObjectID = "AUj-gz-m9l"; */
+"AUj-gz-m9l.text" = "Flagship store";
+
+/* Class = "UINavigationItem"; title = "购物车"; ObjectID = "BTF-W0-I7x"; */
+"BTF-W0-I7x.title" = "ShopCart";
+
+/* Class = "UIButton"; normalTitle = "待发货"; ObjectID = "Bcf-Rf-Dac"; */
+"Bcf-Rf-Dac.normalTitle" = "WOrders";
+
+/* Class = "UILabel"; text = "共1件商品 小计:"; ObjectID = "C0i-3a-AWd"; */
+"C0i-3a-AWd.text" = "A total of 1 pieces of merchandise subtotal:";
+
+/* Class = "UIButton"; normalTitle = "－"; ObjectID = "D3O-18-b6U"; */
+"D3O-18-b6U.normalTitle" = "－";
+
+/* Class = "UILabel"; text = "￥115.00"; ObjectID = "Dpi-6j-XCG"; */
+"Dpi-6j-XCG.text" = "￥115.00";
+
+/* Class = "UIButton"; normalTitle = "朋友代付"; ObjectID = "E9B-lB-xFg"; */
+"E9B-lB-xFg.normalTitle" = "Friends pay";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "ECr-q0-Nfk"; */
+"ECr-q0-Nfk.text" = "1";
+
+/* Class = "UILabel"; text = "配送方式："; ObjectID = "El1-Yz-RIf"; */
+"El1-Yz-RIf.text" = "Distribution mode：";
+
+/* Class = "UILabel"; text = "会员价:"; ObjectID = "Fpm-BE-vxc"; */
+"Fpm-BE-vxc.text" = "Member price:";
+
+/* Class = "UILabel"; text = "18888888888"; ObjectID = "Fvq-6x-zhk"; */
+"Fvq-6x-zhk.text" = "18888888888";
+
+/* Class = "UILabel"; text = "不含运费"; ObjectID = "G0v-Nz-dGg"; */
+"G0v-Nz-dGg.text" = "";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "G2l-dM-7HH"; */
+"G2l-dM-7HH.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "去开通>"; ObjectID = "G3p-nT-nAw"; */
+"G3p-nT-nAw.normalTitle" = "Go open>";
+
+/* Class = "UILabel"; text = "￥119.00"; ObjectID = "GP0-Qg-XPY"; */
+"GP0-Qg-XPY.text" = "￥119.00";
+
+/* Class = "UIButton"; normalTitle = "付款"; ObjectID = "GtS-1u-2Gl"; */
+"GtS-1u-2Gl.normalTitle" = "payment";
+
+/* Class = "UILabel"; text = "配送方式"; ObjectID = "J8e-WK-znY"; */
+"J8e-WK-znY.text" = "Distribution mode";
+
+/* Class = "UILabel"; text = "颜色分类:黑色1101;尺码:38"; ObjectID = "Je5-jK-akf"; */
+"Je5-jK-akf.text" = "Color:black; Size:38";
+
+/* Class = "UIButton"; normalTitle = "加入购物车"; ObjectID = "MA8-zA-htb"; */
+"MA8-zA-htb.normalTitle" = "Shopcart";
+
+/* Class = "UILabel"; text = "共1件商品 合计:￥"; ObjectID = "MUw-a7-JeC"; */
+"MUw-a7-JeC.text" = "Total of 1 commodities:￥";
+
+/* Class = "UILabel"; text = "快递 免邮"; ObjectID = "N8z-wJ-uhX"; */
+"N8z-wJ-uhX.text" = "Express mail";
+
+/* Class = "UITextField"; placeholder = "选填:对本次交易的说明"; ObjectID = "NAm-lj-NAi"; */
+"NAm-lj-NAi.placeholder" = "Optional: the transaction instructions";
+
+/* Class = "UILabel"; text = "合计:￥"; ObjectID = "Nrg-BI-srg"; */
+"Nrg-BI-srg.text" = "Total:￥";
+
+/* Class = "UILabel"; text = "产品名称介绍"; ObjectID = "QCR-MC-DpW"; */
+"QCR-MC-DpW.text" = "Product name introduction";
+
+/* Class = "UILabel"; text = "收获地址:北京市朝阳区495号中道大厦B座88层88号"; ObjectID = "QNJ-la-eTs"; */
+"QNJ-la-eTs.text" = "Harvest address: Beijing City, No. 495 Chaoyang District Road No. 88 building B block 88 layer";
+
+/* Class = "UILabel"; text = "颜色分类:黑色1101;尺码:38"; ObjectID = "R4Z-6i-pVv"; */
+"R4Z-6i-pVv.text" = "Color:black; Size:38";
+
+/* Class = "UILabel"; text = "收件人:某某某"; ObjectID = "SbJ-h7-dpu"; */
+"SbJ-h7-dpu.text" = "Recipient: XXX";
+
+/* Class = "UINavigationItem"; title = "购物车"; ObjectID = "UEx-G0-5Df"; */
+"UEx-G0-5Df.title" = "Shopping Cart";
+
+/* Class = "UILabel"; text = "￥149.00"; ObjectID = "VIh-yh-77c"; */
+"VIh-yh-77c.text" = "￥149.00";
+
+/* Class = "UIButton"; normalTitle = "删除"; ObjectID = "VWF-e6-7Bg"; */
+"VWF-e6-7Bg.normalTitle" = "Delete";
+
+/* Class = "UILabel"; text = "产品标题名称介绍内容"; ObjectID = "WB5-qT-DfW"; */
+"WB5-qT-DfW.text" = "Product title";
+
+/* Class = "UILabel"; text = "产品标题名称介绍内容"; ObjectID = "X4R-X1-QYd"; */
+"X4R-X1-QYd.text" = "Product introduction content";
+
+/* Class = "UILabel"; text = "合计:"; ObjectID = "XcC-UB-9me"; */
+"XcC-UB-9me.text" = "Total:";
+
+/* Class = "UILabel"; text = "2017-02-02 14:00"; ObjectID = "Y1n-B7-9E2"; */
+"Y1n-B7-9E2.text" = "2017-02-02 14:00";
+
+/* Class = "UINavigationItem"; title = "产品详情"; ObjectID = "YRe-IO-qbR"; */
+"YRe-IO-qbR.title" = "product details";
+
+/* Class = "UILabel"; text = "￥149.00"; ObjectID = "ZVO-3V-TYA"; */
+"ZVO-3V-TYA.text" = "￥149.00";
+
+/* Class = "UIButton"; normalTitle = "购物车"; ObjectID = "a6q-Zd-d2e"; */
+"a6q-Zd-d2e.normalTitle" = "Shopping Cart";
+
+/* Class = "UILabel"; text = "普通价：￥118.00"; ObjectID = "aMf-Kx-XBh"; */
+"aMf-Kx-XBh.text" = "Ordinary price：￥118.00";
+
+/* Class = "UILabel"; text = "普通价："; ObjectID = "biP-wC-eYa"; */
+"biP-wC-eYa.text" = "Ordinary price：";
+
+/* Class = "UILabel"; text = "会员价:"; ObjectID = "c9i-z4-UaA"; */
+"c9i-z4-UaA.text" = "Member price:";
+
+/* Class = "UILabel"; text = "购买数量:"; ObjectID = "d3K-uo-qxD"; */
+"d3K-uo-qxD.text" = "nums:";
+
+/* Class = "UIBarButtonItem"; title = "编辑"; ObjectID = "dD0-mQ-wUw"; */
+"dD0-mQ-wUw.title" = "edit";
+
+/* Class = "UILabel"; text = "七天退换"; ObjectID = "eOs-FK-hxZ"; */
+"eOs-FK-hxZ.text" = "Seven days return";
+
+/* Class = "UIButton"; normalTitle = "待发货"; ObjectID = "fpd-pt-mXS"; */
+"fpd-pt-mXS.normalTitle" = "WOrders";
+
+/* Class = "UIButton"; normalTitle = "全部"; ObjectID = "ftG-rZ-ooY"; */
+"ftG-rZ-ooY.normalTitle" = "all";
+
+/* Class = "UILabel"; text = "39.00(含运费￥0.00)"; ObjectID = "jeF-aX-JUo"; */
+"jeF-aX-JUo.text" = "39.00(Freight included￥0.00)";
+
+/* Class = "UIButton"; normalTitle = "＋"; ObjectID = "kQj-er-qmd"; */
+"kQj-er-qmd.normalTitle" = "＋";
+
+/* Class = "UILabel"; text = "销量 8088｜库存 1000"; ObjectID = "kbj-O6-mmv"; */
+"kbj-O6-mmv.text" = "Sales volume 8088｜Stock 1000";
+
+/* Class = "UILabel"; text = "￥119.00"; ObjectID = "lMf-ne-yAC"; */
+"lMf-ne-yAC.text" = "￥119.00";
+
+/* Class = "UIButton"; normalTitle = "取消订单"; ObjectID = "m5h-Fp-8Or"; */
+"m5h-Fp-8Or.normalTitle" = "Cancellation of order";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "nKH-Jn-6eg"; */
+"nKH-Jn-6eg.text" = "0";
+
+/* Class = "UILabel"; text = "￥119.00"; ObjectID = "nuf-iG-Iab"; */
+"nuf-iG-Iab.text" = "￥119.00";
+
+/* Class = "UIButton"; normalTitle = "移到收藏夹"; ObjectID = "o6c-l5-inV"; */
+"o6c-l5-inV.normalTitle" = "ToFavorites";
+
+/* Class = "UIButton"; normalTitle = "首页"; ObjectID = "o6k-R7-5m4"; */
+"o6k-R7-5m4.normalTitle" = "Home";
+
+/* Class = "UILabel"; text = "产品标题名称介绍内容"; ObjectID = "ow0-Cm-vQ0"; */
+"ow0-Cm-vQ0.text" = "Product title";
+
+/* Class = "UIButton"; normalTitle = "分享宝贝"; ObjectID = "qb5-U2-SfB"; */
+"qb5-U2-SfB.normalTitle" = "Share baby";
+
+/* Class = "UIButton"; normalTitle = "删除"; ObjectID = "rne-ho-Iud"; */
+"rne-ho-Iud.normalTitle" = "delete";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "sQC-ZM-cpW"; */
+"sQC-ZM-cpW.normalTitle" = "Button";
+
+/* Class = "UIBarButtonItem"; title = "编辑"; ObjectID = "sbI-Qf-cnU"; */
+"sbI-Qf-cnU.title" = "Edit";
+
+/* Class = "UIButton"; normalTitle = "－"; ObjectID = "sk2-qz-kl0"; */
+"sk2-qz-kl0.normalTitle" = "－";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "tNv-ec-uFV"; */
+"tNv-ec-uFV.text" = "1";
+
+/* Class = "UINavigationItem"; title = "产品详情"; ObjectID = "uw5-3A-Ti8"; */
+"uw5-3A-Ti8.title" = "product details";
+
+/* Class = "UILabel"; text = "颜色分类:黑色1101;尺码:38"; ObjectID = "vFz-vQ-RMt"; */
+"vFz-vQ-RMt.text" = "Color:Black; Size:38";
+
+/* Class = "UIButton"; normalTitle = "列表"; ObjectID = "vU4-ak-L9I"; */
+"vU4-ak-L9I.normalTitle" = "list";
+
+/* Class = "UILabel"; text = "七天退换"; ObjectID = "vyf-XG-rz9"; */
+"vyf-XG-rz9.text" = "Seven days return";
+
+/* Class = "UILabel"; text = "等待买家付款"; ObjectID = "w9r-hl-2ik"; */
+"w9r-hl-2ik.text" = "Waiting for buyers to pay";
+
+/* Class = "UIButton"; normalTitle = "待发货"; ObjectID = "wzS-zf-Opg"; */
+"wzS-zf-Opg.normalTitle" = "WOrders";
+
+/* Class = "UIButton"; normalTitle = "立即购买"; ObjectID = "xRY-gE-vQU"; */
+"xRY-gE-vQU.normalTitle" = "Buy now";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "xdN-6c-TCV"; */
+"xdN-6c-TCV.text" = "1";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "yK9-2Q-xpD"; */
+"yK9-2Q-xpD.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "￥119.00"; ObjectID = "yoy-J9-YRW"; */
+"yoy-J9-YRW.text" = "￥119.00";
+
+/* Class = "UILabel"; text = "会员专享PULS专享价："; ObjectID = "zXN-zT-1Lu"; */
+"zXN-zT-1Lu.text" = "PULS enjoy exclusive：";
+
+/* Class = "UILabel"; text = "￥139.00"; ObjectID = "zdL-2P-LQD"; */
+"zdL-2P-LQD.text" = "￥139.00";

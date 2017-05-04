@@ -1,0 +1,79 @@
+
+/* Class = "UIButton"; normalTitle = "注册"; ObjectID = "01Z-V9-FQT"; */
+"01Z-V9-FQT.normalTitle" = "register";
+
+/* Class = "UILabel"; text = "相关信息"; ObjectID = "0UG-VF-Tnm"; */
+"0UG-VF-Tnm.text" = "Relevant information";
+
+/* Class = "UITextField"; placeholder = "请输入用户名"; ObjectID = "3LW-CR-pB6"; */
+"3LW-CR-pB6.placeholder" = "please enter your username";
+
+/* Class = "UITextField"; placeholder = "请输入用户名"; ObjectID = "8Di-kP-X1m"; */
+"8Di-kP-X1m.placeholder" = "please enter your username nom d'utilisateur";
+
+/* Class = "UILabel"; text = "私人信息"; ObjectID = "EsC-cn-yRl"; */
+"EsC-cn-yRl.text" = "Private information";
+
+/* Class = "UILabel"; text = "基础信息"; ObjectID = "FtY-kf-cqY"; */
+"FtY-kf-cqY.text" = "Basic information;
+
+/* Class = "UITextField"; placeholder = "请输入密码"; ObjectID = "Glz-WV-6Z9"; */
+"Glz-WV-6Z9.placeholder" = "Please input a password mot de passe";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Kh0-VF-xyU"; */
+//"Kh0-VF-xyU.text" = "Label";
+
+/* Class = "UILabel"; text = "没有账户？"; ObjectID = "MDh-vS-hKK"; */
+"MDh-vS-hKK.text" = "No account？";
+
+/* Class = "UILabel"; text = "姓名"; ObjectID = "Q2A-Dr-gyh"; */
+"Q2A-Dr-gyh.text" = "Full name";
+
+/* Class = "UILabel"; text = "推荐人 "; ObjectID = "QK9-df-GUj"; */
+"QK9-df-GUj.text" = "Recommender ";
+
+/* Class = "UITextField"; placeholder = "请输入用户名"; ObjectID = "ULL-So-WXA"; */
+"ULL-So-WXA.placeholder" = "please enter your username nom d'utilisateur";
+
+/* Class = "UILabel"; text = "安置人"; ObjectID = "b0l-Fk-TbZ"; */
+"b0l-Fk-TbZ.text" = "Resettlement man";
+
+/* Class = "UITextField"; placeholder = "请输入用户名"; ObjectID = "efV-Nh-C2t"; */
+"efV-Nh-C2t.placeholder" = "please enter your username nom d'utilisateur";
+
+/* Class = "UIButton"; normalTitle = "忘记密码？"; ObjectID = "jdY-SR-Rb8"; */
+"jdY-SR-Rb8.normalTitle" = "Forget password de passe？";
+
+/* Class = "UINavigationItem"; title = "注册"; ObjectID = "lfC-8X-Snn"; */
+"lfC-8X-Snn.title" = "register";
+
+/* Class = "UILabel"; text = "密码"; ObjectID = "mrZ-qb-zLz"; */
+"mrZ-qb-zLz.text" = "Password";
+
+/* Class = "UILabel"; text = "邮箱"; ObjectID = "qfE-8P-oJk"; */
+"qfE-8P-oJk.text" = "mailbox";
+
+/* Class = "UIButton"; normalTitle = "注册"; ObjectID = "th5-VJ-zJ0"; */
+"th5-VJ-zJ0.normalTitle" = "register";
+
+/* Class = "UITextField"; placeholder = "请输入用户名"; ObjectID = "uIM-ym-dst"; */
+"uIM-ym-dst.placeholder" = "please enter your username nom d'utilisateur";
+
+/* Class = "UITextField"; placeholder = "请输入用户名"; ObjectID = "ucP-s7-GyO"; */
+"ucP-s7-GyO.placeholder" = "please enter your username nom d'utilisateur";
+
+/* Class = "UILabel"; text = "手机"; ObjectID = "vgy-Ep-bzd"; */
+"vgy-Ep-bzd.text" = "Mobile phone";
+
+/* Class = "UIButton"; normalTitle = "登录"; ObjectID = "xfv-Pl-G0j"; */
+"xfv-Pl-G0j.normalTitle" = "Login";
+
+/* Class = "UITextField"; placeholder = "请输入用户名"; ObjectID = "zW4-1A-Oid"; */
+"zW4-1A-Oid.placeholder" = "please enter your username nom d'utilisateur";
+
+//##################################################################################
+//#           AutoGenStrings            2017-02-28 20:21:20
+//##################################################################################
+
+/* Class = "UILabel"; text = "基础信息"; ObjectID = "FtY-kf-cqY"; */
+"FtY-kf-cqY.text" = "基础信息";

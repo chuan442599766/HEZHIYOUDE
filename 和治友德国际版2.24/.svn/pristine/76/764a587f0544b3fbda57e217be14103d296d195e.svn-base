@@ -1,0 +1,254 @@
+
+/* Class = "UILabel"; text = "200"; ObjectID = "09N-sX-Hpw"; */
+"09N-sX-Hpw.text" = "200";
+
+/* Class = "UILabel"; text = "头像"; ObjectID = "1Z0-a3-v04"; */
+"1Z0-a3-v04.text" = "Head portrait";
+
+/* Class = "UILabel"; text = "普卡"; ObjectID = "1lG-Hd-Wto"; */
+"1lG-Hd-Wto.text" = "Puka";
+
+/* Class = "UILabel"; text = "周五"; ObjectID = "1xy-iR-qRQ"; */
+"1xy-iR-qRQ.text" = "Friday";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2hG-9Y-ySq"; */
+"2hG-9Y-ySq.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "更多>>"; ObjectID = "2m9-QR-oxc"; */
+"2m9-QR-oxc.text" = "More>>";
+
+/* Class = "UILabel"; text = "留言反馈"; ObjectID = "2vW-83-WE3"; */
+"2vW-83-WE3.text" = "Feedback";
+
+/* Class = "UILabel"; text = "正式获得直销牌照康美药业行业保健品营销有望提速"; ObjectID = "36Y-kp-tC6"; */
+"36Y-kp-tC6.text" = "Officially get direct sales license Kang beauty pharmaceutical industry is expected to accelerate the sale of health care products";
+
+/* Class = "UILabel"; text = "产品名称"; ObjectID = "4Pc-Iz-1rB"; */
+"4Pc-Iz-1rB.text" = "Product name";
+
+/* Class = "UILabel"; text = "头像"; ObjectID = "57T-eC-rLy"; */
+"57T-eC-rLy.text" = "Head portrait";
+
+/* Class = "UILabel"; text = "300"; ObjectID = "5TE-L4-4Uc"; */
+"5TE-L4-4Uc.text" = "300";
+
+/* Class = "UILabel"; text = "最新资讯"; ObjectID = "5l1-Iz-bcz"; */
+"5l1-Iz-bcz.text" = "Latest information";
+
+/* Class = "UILabel"; text = "产品简介"; ObjectID = "9tt-8e-as0"; */
+"9tt-8e-as0.text" = "Product profile";
+
+/* Class = "UITabBarItem"; title = "资讯"; ObjectID = "AEy-I7-P3a"; */
+//"AEy-I7-P3a.title" = "information";
+
+/* Class = "UILabel"; text = "¥559"; ObjectID = "AKB-p8-SUL"; */
+"AKB-p8-SUL.text" = "$559";
+
+/* Class = "UILabel"; text = "转账"; ObjectID = "Bo4-0n-Qm4"; */
+"Bo4-0n-Qm4.text" = "Transfer accounts";
+
+/* Class = "UISearchBar"; placeholder = "搜索(会员编号)"; ObjectID = "ByD-Bj-TFv"; */
+"ByD-Bj-TFv.placeholder" = "Search (membership number)";
+
+/* Class = "UILabel"; text = "f$:"; ObjectID = "CY5-rF-FJS"; */
+"CY5-rF-FJS.text" = "f$:";
+
+/* Class = "UILabel"; text = "我的收藏"; ObjectID = "Cu5-yO-Syk"; */
+"Cu5-yO-Syk.text" = "My collection";
+
+/* Class = "UILabel"; text = "一级"; ObjectID = "E0L-0H-u5b"; */
+"E0L-0H-u5b.text" = "Class A";
+
+/* Class = "UINavigationItem"; title = "我的"; ObjectID = "FBj-qA-ooL"; */
+"FBj-qA-ooL.title" = "My";
+
+/* Class = "UINavigationItem"; title = "首页"; ObjectID = "FD0-N0-OAa"; */
+"FD0-N0-OAa.title" = "home page";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FQA-rC-huN"; */
+"FQA-rC-huN.text" = "Label";
+
+/* Class = "UILabel"; text = "正式获得直销牌照康美药业行业保健品营销有望提速"; ObjectID = "GM6-iH-r53"; */
+"GM6-iH-r53.text" = "Officially get direct sales license Kang beauty pharmaceutical industry is expected to accelerate the sale of health care products";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "GbQ-qY-vTO"; */
+"GbQ-qY-vTO.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "GfK-2k-F9p"; */
+"GfK-2k-F9p.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "会员注册"; ObjectID = "H8X-oi-JES"; */
+"H8X-oi-JES.text" = "Member registration";
+
+/* Class = "UILabel"; text = "负离子远红外养生被"; ObjectID = "K93-8F-Hvn"; */
+"K93-8F-Hvn.text" = "Anion far-infrared health preserving";
+
+/* Class = "UILabel"; text = "iOSTest"; ObjectID = "Ksq-dS-UzL"; */
+"Ksq-dS-UzL.text" = "iOSTest";
+
+/* Class = "UITabBarItem"; title = "帐户"; ObjectID = "L6a-6l-ZCI"; */
+"L6a-6l-ZCI.title" = "account";
+
+/* Class = "UILabel"; text = "头像"; ObjectID = "Le5-et-aAj"; */
+"Le5-et-aAj.text" = "Head portrait";
+
+/* Class = "UIButton"; normalTitle = "退出登录"; ObjectID = "LzK-3k-997"; */
+"LzK-3k-997.normalTitle" = "log out";
+
+/* Class = "UILabel"; text = "促销"; ObjectID = "MUN-s9-jVj"; */
+"MUN-s9-jVj.text" = "Promotion";
+
+/* Class = "UILabel"; text = "200"; ObjectID = "Owq-zh-wIb"; */
+"Owq-zh-wIb.text" = "200";
+
+/* Class = "UILabel"; text = "f000:"; ObjectID = "Pjb-X3-Tkv"; */
+"Pjb-X3-Tkv.text" = "f000:";
+
+/* Class = "UITabBarItem"; title = "首页"; ObjectID = "Q3d-aW-KnO"; */
+"Q3d-aW-KnO.title" = "home";
+
+/* Class = "UILabel"; text = "2000"; ObjectID = "SDf-hG-jub"; */
+"SDf-hG-jub.text" = "2000";
+
+/* Class = "UILabel"; text = "23323232"; ObjectID = "SZM-Ql-6Ao"; */
+"SZM-Ql-6Ao.text" = "23323232";
+
+/* Class = "UITabBarItem"; title = "我的"; ObjectID = "SbS-HK-U00"; */
+"SbS-HK-U00.title" = "My";
+
+/* Class = "UILabel"; text = "荣誉:"; ObjectID = "TOV-Cq-9NI"; */
+"TOV-Cq-9NI.text" = "Honor:";
+
+/* Class = "UIBarButtonItem"; title = "保存"; ObjectID = "TTl-jE-Kww"; */
+"TTl-jE-Kww.title" = "save";
+
+/* Class = "UISearchBar"; placeholder = "最新消息"; ObjectID = "Tf9-9f-8fV"; */
+"Tf9-9f-8fV.placeholder" = "Latest news";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UNG-vC-lmk"; */
+"UNG-vC-lmk.text" = "Label";
+
+/* Class = "UILabel"; text = "23323232"; ObjectID = "UXR-eX-Vcj"; */
+"UXR-eX-Vcj.text" = "23323232";
+
+/* Class = "UILabel"; text = "级别:"; ObjectID = "VIW-jP-UKe"; */
+"VIW-jP-UKe.text" = "level:";
+
+/* Class = "UIViewController"; title = "新闻框架"; ObjectID = "Vwt-Jk-JAr"; */
+"Vwt-Jk-JAr.title" = "News frame";
+
+/* Class = "UILabel"; text = "——商品分类——"; ObjectID = "WBZ-Qa-20Z"; */
+"WBZ-Qa-20Z.text" = "——Commodity classification——";
+
+/* Class = "UILabel"; text = "1个300点+5个30点"; ObjectID = "WKg-Bk-Lwn"; */
+"WKg-Bk-Lwn.text" = "1 points 300 +5 300 points";
+
+/* Class = "UILabel"; text = "正式获得直销牌照康美药业行业保健品营销有望提速"; ObjectID = "WeL-o3-cxH"; */
+"WeL-o3-cxH.text" = "Officially get direct sales license Kang beauty pharmaceutical industry is expected to accelerate the sale of health care products";
+
+/* Class = "UINavigationItem"; title = "经营权资料"; ObjectID = "YsW-FQ-Kvk"; */
+"YsW-FQ-Kvk.title" = "Management right information";
+
+/* Class = "UINavigationItem"; title = "帐户"; ObjectID = "ZQE-WZ-TIP"; */
+"ZQE-WZ-TIP.title" = "account";
+
+/* Class = "UILabel"; text = "头像"; ObjectID = "aeV-bK-1m0"; */
+"aeV-bK-1m0.text" = "Head portrait";
+
+/* Class = "UINavigationItem"; title = "个人信息"; ObjectID = "crJ-vr-WLs"; */
+"crJ-vr-WLs.title" = "Personal information";
+
+/* Class = "UILabel"; text = "电子币"; ObjectID = "d0d-B5-jZU"; */
+"d0d-B5-jZU.text" = "Electronic coin";
+
+/* Class = "UILabel"; text = "14分钟前"; ObjectID = "fgm-TY-dCh"; */
+"fgm-TY-dCh.text" = "14 minutes ago";
+
+/* Class = "UILabel"; text = "H000:"; ObjectID = "g6Y-i6-dOh"; */
+"g6Y-i6-dOh.text" = "H000:";
+
+/* Class = "UITabBarItem"; title = "产品"; ObjectID = "hc2-Q0-6W3"; */
+"hc2-Q0-6W3.title" = "product";
+
+/* Class = "UILabel"; text = "+50"; ObjectID = "kSG-MZ-c2J"; */
+"kSG-MZ-c2J.text" = "+50";
+
+/* Class = "UILabel"; text = "200"; ObjectID = "lfR-Jo-jmb"; */
+"lfR-Jo-jmb.text" = "200";
+
+/* Class = "UILabel"; text = "更多>>"; ObjectID = "mLH-ya-z6q"; */
+"mLH-ya-z6q.text" = "more>>";
+
+/* Class = "UILabel"; text = "补资格单"; ObjectID = "mwm-nl-7Ia"; */
+"mwm-nl-7Ia.text" = "Supplementary certificate";
+
+/* Class = "UILabel"; text = "S415029"; ObjectID = "ovO-af-Yah"; */
+"ovO-af-Yah.text" = "S415029";
+
+/* Class = "UILabel"; text = "购物车"; ObjectID = "pAN-Ls-8H8"; */
+"pAN-Ls-8H8.text" = "Shopping Cart";
+
+/* Class = "UINavigationItem"; title = "会员资料"; ObjectID = "pzd-sl-Mp7"; */
+"pzd-sl-Mp7.title" = "Member information";
+
+/* Class = "UILabel"; text = "的账户 ："; ObjectID = "q8w-JP-ac0"; */
+"q8w-JP-ac0.text" = "Account ：";
+
+/* Class = "UILabel"; text = "2017-02-22 10:00"; ObjectID = "rAW-HB-XFS"; */
+"rAW-HB-XFS.text" = "2017-02-22 10:00";
+
+/* Class = "UIButton"; normalTitle = "行业资讯"; ObjectID = "rI4-91-AeX"; */
+"rI4-91-AeX.normalTitle" = "Industry information";
+
+/* Class = "UILabel"; text = "零销单"; ObjectID = "rZr-3j-Vav"; */
+"rZr-3j-Vav.text" = "Retail single";
+
+/* Class = "UINavigationItem"; title = "资讯"; ObjectID = "sWN-PS-tCV"; */
+"sWN-PS-tCV.title" = "information";
+
+/* Class = "UILabel"; text = "14分钟前"; ObjectID = "sX8-nk-1zV"; */
+"sX8-nk-1zV.text" = "14Minutes ago";
+
+/* Class = "UILabel"; text = "最新资讯"; ObjectID = "spI-qf-2vf"; */
+"spI-qf-2vf.text" = "Latest information";
+
+/* Class = "UILabel"; text = "fv:"; ObjectID = "tF3-Mk-bH4"; */
+//"tF3-Mk-bH4.text" = "fv:";
+
+/* Class = "UISearchBar"; placeholder = "搜索(会员编号)"; ObjectID = "uAD-gJ-nbM"; */
+"uAD-gJ-nbM.placeholder" = "Search (membership number)";
+
+/* Class = "UILabel"; text = "14分钟前"; ObjectID = "uVv-zm-LFE"; */
+"uVv-zm-LFE.text" = "14Minutes ago";
+
+/* Class = "UILabel"; text = "个人资料"; ObjectID = "vv2-nK-l6p"; */
+"vv2-nK-l6p.text" = "personal data";
+
+/* Class = "UINavigationItem"; title = "产品"; ObjectID = "x4L-8R-GdV"; */
+"x4L-8R-GdV.title" = "product";
+
+/* Class = "UILabel"; text = "增加点位 "; ObjectID = "xYu-mP-2gz"; */
+"xYu-mP-2gz.text" = "Add point ";
+
+/* Class = "UILabel"; text = "Caoffa"; ObjectID = "zC8-Wm-KR3"; */
+"zC8-Wm-KR3.text" = "Caoffa";
+
+/* Class = "UILabel"; text = "8:10"; ObjectID = "zYy-FV-5hr"; */
+"zYy-FV-5hr.text" = "8:10";
+
+/* Class = "UILabel"; text = "订单中心"; ObjectID = "zci-WT-Ksy"; */
+"zci-WT-Ksy.text" = "Order center";
+
+//##################################################################################
+//#           AutoGenStrings            2017-02-28 20:00:30
+//##################################################################################
+
+/* Class = "UILabel"; text = "fv"; ObjectID = "R1K-z9-ElG"; */
+"R1K-z9-ElG.text" = "fv";
+
+//##################################################################################
+//#           AutoGenStrings            2017-02-28 20:21:20
+//##################################################################################
+
+/* Class = "UITabBarItem"; title = "资讯"; ObjectID = "uQq-Zw-ahF"; */
+"uQq-Zw-ahF.title" = "information";

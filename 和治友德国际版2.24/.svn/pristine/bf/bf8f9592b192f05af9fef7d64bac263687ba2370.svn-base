@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "提交"; ObjectID = "1fx-A6-mW6"; */
+"1fx-A6-mW6.normalTitle" = "Soumettre";
+
+/* Class = "UILabel"; text = "补充点位"; ObjectID = "MuV-WE-KuA"; */
+"MuV-WE-KuA.text" = "Ajouter un point";
+
+/* Class = "UITextField"; placeholder = "S385672"; ObjectID = "YAc-0C-38h"; */
+"YAc-0C-38h.placeholder" = "S385672";
+
+/* Class = "UILabel"; text = "会员编号"; ObjectID = "oEA-eq-EhP"; */
+"oEA-eq-EhP.text" = "Le numéro de membre";
+
+/* Class = "UILabel"; text = "¥"; ObjectID = "odx-2b-r4h"; */
+"odx-2b-r4h.text" = "¥";

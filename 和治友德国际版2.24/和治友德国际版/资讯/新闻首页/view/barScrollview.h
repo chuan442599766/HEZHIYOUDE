@@ -1,0 +1,36 @@
+//
+//  barScrollview.h
+//  和治友德国际版
+//
+//  Created by Mac on 17/2/18.
+//  Copyright © 2017年 com.zhichuang.hezhiyoude. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@protocol barScrollviewDelegate;
+
+@interface barScrollview : UIScrollView<UIScrollViewDelegate>
+{
+    BOOL isSelect;
+   
+}
+@property (nonatomic, assign)id <barScrollviewDelegate>barScrollviewDelegate;
+@property (nonatomic, strong) UIButton *selectBtn;
+
+
+- (instancetype)initWithFrame:(CGRect)frame withtitlArr:(NSArray *)titleArray;
+- (void)addSubItemWithViewController:(UIViewController *)viewController;
+
+@end
+
+
+
+@protocol barScrollviewDelegate<NSObject>
+
+
+@optional
+- (void)BarScrollviewBtnClick :(barScrollview *)barScrollview WithBtnTag:(UIButton *)button;
+
+
+@end

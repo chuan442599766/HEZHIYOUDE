@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "金额（元）"; ObjectID = "11Y-JJ-UxE"; */
+"11Y-JJ-UxE.text" = "money";
+
+/* Class = "UILabel"; text = "充值类型"; ObjectID = "F0f-u3-qiq"; */
+"F0f-u3-qiq.text" = "type";
+
+/* Class = "UILabel"; text = "¥"; ObjectID = "Omh-ZW-Ttg"; */
+"Omh-ZW-Ttg.text" = "¥";
+
+/* Class = "UITextField"; placeholder = "电子币"; ObjectID = "ekD-xR-yHj"; */
+"ekD-xR-yHj.placeholder" = "Electronics";
+
+/* Class = "UIButton"; normalTitle = "▼"; ObjectID = "lZP-0y-awi"; */
+"lZP-0y-awi.normalTitle" = "▼";
+
+/* Class = "UIButton"; normalTitle = "充值"; ObjectID = "w7g-gx-iz7"; */
+"w7g-gx-iz7.normalTitle" = "Recharge";

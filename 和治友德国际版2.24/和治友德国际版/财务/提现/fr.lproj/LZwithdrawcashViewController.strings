@@ -1,0 +1,24 @@
+
+/* Class = "UIButton"; normalTitle = "▼"; ObjectID = "EaY-aJ-ueq"; */
+"EaY-aJ-ueq.normalTitle" = "▼";
+
+/* Class = "UILabel"; text = "¥"; ObjectID = "bE4-Bb-WSq"; */
+"bE4-Bb-WSq.text" = "¥";
+
+/* Class = "UITextField"; placeholder = "请选择提现类型"; ObjectID = "dv2-yX-3aK"; */
+"dv2-yX-3aK.placeholder" = "Le choix de ce type";
+
+/* Class = "UIButton"; normalTitle = "提现"; ObjectID = "jK0-hs-7je"; */
+"jK0-hs-7je.normalTitle" = "Mentionner";
+
+/* Class = "UILabel"; text = "提现类型"; ObjectID = "mRS-Qe-kRP"; */
+"mRS-Qe-kRP.text" = "Ce type";
+
+/* Class = "UIButton"; normalTitle = "全部体现"; ObjectID = "s8h-Ul-UA8"; */
+"s8h-Ul-UA8.normalTitle" = "Tout";
+
+/* Class = "UILabel"; text = "当前余额¥4590.00"; ObjectID = "xiN-BW-WSm"; */
+"xiN-BW-WSm.text" = "Solde¥4590.00";
+
+/* Class = "UILabel"; text = "金额（元）"; ObjectID = "zq0-ic-EeJ"; */
+"zq0-ic-EeJ.text" = "Montant";

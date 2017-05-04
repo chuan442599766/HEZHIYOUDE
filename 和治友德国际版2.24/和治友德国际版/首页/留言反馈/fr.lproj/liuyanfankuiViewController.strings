@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "请输入客户端意见，我们将不断优化体验"; ObjectID = "GQu-up-wCz"; */
+"GQu-up-wCz.text" = "Veuillez saisir un client d'avis, nous continuerons à optimisation de l'expérience";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "QUE-tR-Cyv"; */
+"QUE-tR-Cyv.text" = ">";
+
+/* Class = "UITextField"; placeholder = "请输入手机号码/邮箱"; ObjectID = "cHv-Qr-kEk"; */
+"cHv-Qr-kEk.placeholder" = "Veuillez entrer un numéro de téléphone/courrier";
+
+/* Class = "UILabel"; text = "反馈类型"; ObjectID = "s5Y-Q4-oMF"; */
+"s5Y-Q4-oMF.text" = "De type à rétroaction";
+
+/* Class = "UILabel"; text = "功能意见"; ObjectID = "yv1-J1-7XO"; */
+"yv1-J1-7XO.text" = "Les observations fonctionnelles";

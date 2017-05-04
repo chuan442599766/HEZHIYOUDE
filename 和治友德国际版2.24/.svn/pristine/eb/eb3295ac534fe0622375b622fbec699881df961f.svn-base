@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "发放状态:已发放"; ObjectID = "CT2-SC-N4k"; */
+"CT2-SC-N4k.text" = "type:issued";
+
+/* Class = "UILabel"; text = "报单补助:0.00"; ObjectID = "I3w-da-CPs"; */
+"I3w-da-CPs.text" = "grants:0.00";
+
+/* Class = "UILabel"; text = "消费回馈奖:200.00"; ObjectID = "Lgf-Tc-wii"; */
+"Lgf-Tc-wii.text" = "consumption:200.00";
+
+/* Class = "UILabel"; text = "重消:0.00"; ObjectID = "ecT-ho-fNT"; */
+"ecT-ho-fNT.text" = "repeat:0.00";
+
+/* Class = "UILabel"; text = "量碰奖:0.00"; ObjectID = "kvv-RT-k2P"; */
+"kvv-RT-k2P.text" = "amount:0.00";
+
+/* Class = "UILabel"; text = "业绩奖:3000.00"; ObjectID = "mfn-BA-RWG"; */
+"mfn-BA-RWG.text" = "achievement:3000.00";
+
+/* Class = "UILabel"; text = "税:0.00"; ObjectID = "zKa-FU-ncU"; */
+"zKa-FU-ncU.text" = "tax:0.00";

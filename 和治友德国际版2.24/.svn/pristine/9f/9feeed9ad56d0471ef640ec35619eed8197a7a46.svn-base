@@ -1,0 +1,39 @@
+//
+//  CustomCollectionReusableView.m
+//  和治友德
+//
+//  Created by Mac on 17/2/16.
+//  Copyright © 2017年 com.zhichuang.hezhiyoude. All rights reserved.
+//
+
+#import "CustomCollectionReusableView.h"
+#import "AddPointViewController.h"
+@interface CustomCollectionReusableView()
+@property (weak, nonatomic) IBOutlet UISearchBar *CustomSearchBar;
+
+@end
+@implementation CustomCollectionReusableView
+
+- (void)touchesEnded:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event{
+    
+    [self endEditing:YES];
+}
+- (IBAction)clickbtnaction:(id)sender {
+    UIButton * button = (UIButton*)sender;
+    if ([self.delegate respondsToSelector:@selector(performSegueSelectorWithTag:)]) {
+        
+        [self.delegate performSegueSelectorWithTag:button.tag];
+    }
+    if (button.tag == 100) {
+        
+        
+        _changeColorBlock();
+        
+        
+        
+        
+    }
+    
+
+}
+@end

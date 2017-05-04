@@ -1,0 +1,30 @@
+
+/* Class = "UIButton"; normalTitle = "▼"; ObjectID = "AXp-HT-psG"; */
+"AXp-HT-psG.normalTitle" = "▼";
+
+/* Class = "UILabel"; text = "会员编号"; ObjectID = "Cnv-at-eMh"; */
+"Cnv-at-eMh.text" = "Member number";
+
+/* Class = "UIButton"; normalTitle = "确定"; ObjectID = "FTV-Xg-3bQ"; */
+"FTV-Xg-3bQ.normalTitle" = "Sure";
+
+/* Class = "UITextField"; placeholder = "请选择网络类型"; ObjectID = "FXl-Ka-Ri5"; */
+"FXl-Ka-Ri5.placeholder" = "Select network type";
+
+/* Class = "UIButton"; normalTitle = "▼"; ObjectID = "RPf-NE-lXO"; */
+"RPf-NE-lXO.normalTitle" = "▼";
+
+/* Class = "UILabel"; text = "¥"; ObjectID = "UcN-cP-CEV"; */
+"UcN-cP-CEV.text" = "¥";
+
+/* Class = "UILabel"; text = "网络类型"; ObjectID = "csd-fA-kqa"; */
+"csd-fA-kqa.text" = "network type";
+
+/* Class = "UILabel"; text = "促销类型"; ObjectID = "g16-ZX-jhO"; */
+"g16-ZX-jhO.text" = "Promotion type";
+
+/* Class = "UILabel"; text = "增加点位"; ObjectID = "n6j-zH-IbC"; */
+"n6j-zH-IbC.text" = "Add point";
+
+/* Class = "UILabel"; text = "S78546"; ObjectID = "tgh-aH-Z1o"; */
+"tgh-aH-Z1o.text" = "S78546";

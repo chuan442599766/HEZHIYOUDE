@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "+50.00"; ObjectID = "TmS-Vb-w21"; */
+"TmS-Vb-w21.text" = "+50.00";
+
+/* Class = "UILabel"; text = "A8567-转账"; ObjectID = "bHV-Iy-3sV"; */
+"bHV-Iy-3sV.text" = "A8567-Transfer accounts";
+
+/* Class = "UILabel"; text = "09:20"; ObjectID = "bOf-D7-G1i"; */
+"bOf-D7-G1i.text" = "09:20";
+
+/* Class = "UILabel"; text = "周六"; ObjectID = "iJX-bd-bqP"; */
+"iJX-bd-bqP.text" = "Saturday";

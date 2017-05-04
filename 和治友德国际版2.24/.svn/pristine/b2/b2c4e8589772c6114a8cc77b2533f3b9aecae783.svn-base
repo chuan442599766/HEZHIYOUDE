@@ -1,0 +1,381 @@
+//
+//  NewDetailViewController.m
+//  和治友德国际版
+//
+//  Created by Mac on 17/2/18.
+//  Copyright © 2017年 com.zhichuang.hezhiyoude. All rights reserved.
+//
+
+#import "NewDetailViewController.h"
+#import "HZYDHead.pch"
+#import "DetailNewsTableViewCell.h"
+static NSString * const identifierCell1 = @"commentCell1";
+static NSString * const identifierCell2 = @"commentCell2";
+
+@interface NewDetailViewController ()<UITextFieldDelegate,UITableViewDataSource,UITableViewDelegate,UITextViewDelegate>
+{
+    int b;
+    int c;
+    int a;
+    
+    
+}
+
+
+@property (nonatomic, assign)NSInteger CommentCount;
+//segue传值内容
+@property (nonatomic, assign) NSInteger SelectRow;
+
+//选择cell跳转
+@property (nonatomic, assign) NSInteger SelectedRow;
+@property (nonatomic, assign) NSInteger SelectedSection;
+//评论textfield
+@property (weak, nonatomic) IBOutlet UITextField *commentField;
+
+//评论TextView
+@property (weak, nonatomic) IBOutlet UIView *commentsView;
+
+@property (weak, nonatomic) IBOutlet UITableView *customTableview;
+
+//新闻详情标题数组
+@property (nonatomic, strong) NSArray *NewsTitleArray;
+//首行内容
+@property (nonatomic, strong) NSArray *firstContentArray;
+//详情数组图片
+@property (nonatomic, strong) NSArray *NewsImageArray;
+//增加评论
+@property (nonatomic, strong) NSMutableArray *addCommentArray;
+@property (nonatomic, strong) NSArray *shareAry;
+
+@end
+
+@implementation NewDetailViewController
+
+
+
+
+- (void)viewDidLoad {
+    
+    [super viewDidLoad];
+    [self addObserver:self forKeyPath:@"SelectRow" options:NSKeyValueObservingOptionNew| NSKeyValueObservingOptionOld context:NULL];
+    
+    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(keyboardwillshow:) name:UIKeyboardWillShowNotification object:nil];
+    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(keyboardWillHide) name:UIKeyboardWillHideNotification object:nil];
+    
+    
+}
+- (void)observeValueForKeyPath:(NSString *)keyPath ofObject:(id)object change:(NSDictionary<NSString *,id> *)change context:(void *)context{
+    
+    if ([keyPath isEqualToString:@"SelectRow"]) {
+        
+        [self.customTableview reloadRowsAtIndexPaths:[NSArray arrayWithObject:[NSIndexPath indexPathForRow:0 inSection:0]] withRowAnimation:UITableViewRowAnimationNone];
+       
+    }
+   
+}
+- (IBAction)showComent:(id)sender {
+    
+    [self.commentField becomeFirstResponder];
+    self.customTableview.userInteractionEnabled = NO;
+    
+
+}
+
+#pragma mark keyboardShow
+- (void)keyboardwillshow:(NSNotification *)notification{
+    if (self.commentsView.hidden) {
+        
+        self.commentsView.hidden = NO;
+    }
+    CGRect keyboardRect = [notification.userInfo[UIKeyboardFrameEndUserInfoKey] CGRectValue];
+    
+
+    CGFloat duration  = [notification.userInfo[UIKeyboardAnimationDurationUserInfoKey] floatValue];
+    CGRect keyboardFrame = [self.view convertRect:keyboardRect fromView:[[UIApplication sharedApplication] keyWindow]];
+    CGFloat keyboardHeight = keyboardFrame.size.height;
+    
+    
+    CGRect rect = CGRectMake(0, [UIScreen mainScreen].bounds.size.height - keyboardHeight - self.commentsView.frame.size.height,mainScreenWidth, self.commentsView.frame.size.height);
+    
+ 
+    
+    [UIView animateWithDuration:duration delay:0 options:UIViewAnimationOptionCurveLinear animations:^{
+        
+        self.commentsView.frame = rect;
+        
+
+    } completion:nil];
+
+}
+- (void)keyboardWillHide{
+
+    self.commentsView.hidden = YES;
+    
+}
+
+- (void)dealloc{
+    
+    [[NSNotificationCenter defaultCenter] removeObserver:self];
+    [self removeObserver:self forKeyPath:@"SelectRow"];
+}
+- (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView{
+    
+    return 3;
+    
+}
+- (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section{
+    
+    if (section == 0) {
+        
+        return 1;
+        
+    }else{
+        
+        if (section == 1) {
+            
+            
+            return self.CommentCount;
+            
+        }
+        
+        
+        return 2;
+        
+    }
+  
+    
+}
+- (UITableViewCell*)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath{
+    
+ 
+    
+    if (!indexPath.section) {
+        
+        DetailNewsTableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:identifierCell1 forIndexPath:indexPath];
+        cell.TitleLabel.text = self.NewsTitleArray[self.SelectRow];
+        cell.firstContentLabel.text = self.firstContentArray[self.SelectRow];
+        cell.newsDetailImage.image = [UIImage imageNamed:self.NewsImageArray[self.SelectRow]];
+        
+        return cell;
+        
+    }else {
+        
+        DetailNewsTableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:identifierCell2 forIndexPath:indexPath];
+        if (indexPath.section == 1){
+            
+            cell.ComentTitle.text = @"匿名发布者";
+            cell.CommentContent.text = self.commentField.text;
+            cell.CommentheadImage.image = [UIImage imageNamed:@"head-3"];
+        }
+        return cell;
+    
+    }
+
+    
+    
+    return nil;
+}
+
+
+- (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath{
+    
+    if (!indexPath.section) {
+        
+        return;
+        
+    }
+    self.SelectedRow = indexPath.row;
+    self.SelectedSection = indexPath.section;
+    
+    [self performSegueWithIdentifier:@"goToComment" sender:nil];
+    
+    
+}
+- (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath{
+    
+    if (!indexPath.section) {
+        
+        return [self.firstContentArray[self.SelectRow] boundingRectWithSize:CGSizeMake(300, 1000) options:NSStringDrawingUsesLineFragmentOrigin attributes:[NSDictionary dictionaryWithObject:[UIFont systemFontOfSize:14] forKey:NSFontAttributeName] context:nil].size.height + 434 + 100;
+        
+        
+    }
+    return 150;
+    
+}
+- (CGFloat)tableView:(UITableView *)tableView heightForHeaderInSection:(NSInteger)section{
+    
+    return 0.01;
+}
+
+
+- (void)touchesEnded:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event{
+    
+    [self.view endEditing:YES];
+    self.customTableview.userInteractionEnabled = YES;
+    
+    
+    
+}
+
+#pragma mark -------------------CommentButtonActionAndAnimation----------------------------
+- (IBAction)flgAnimation:(UIButton *)sender {
+    
+    if (sender.tag == 0) {
+        
+        if (a%2 ==0) {
+            
+            [self.customTableview scrollToRowAtIndexPath:[NSIndexPath indexPathForItem:1 inSection:2] atScrollPosition:UITableViewScrollPositionBottom animated:YES];
+            
+           
+            
+        }else{
+            
+            [self.customTableview scrollToRowAtIndexPath:[NSIndexPath indexPathForItem:0 inSection:0] atScrollPosition:UITableViewScrollPositionTop animated:YES];
+         
+            
+           
+        }
+        
+        a++;
+        
+    }else{
+        
+        if (sender.tag == 1){
+            
+            [sender setImage:[UIImage imageNamed:(b%2==0?@"collection":@"news-detai-bottom-collection")] forState:UIControlStateNormal];
+            b++;
+            
+        }else if (sender.tag == 2){
+            
+            [sender setImage:[UIImage imageNamed:(c%2==0?@"share":@"unshare")] forState:UIControlStateNormal];
+            c++;
+        }
+        
+        
+        CAKeyframeAnimation *k = [CAKeyframeAnimation animationWithKeyPath:@"transform.scale"];
+        k.values = @[@(0.1),@(1.0),@(1.5)];
+        sender.alpha = 0;
+        k.keyTimes = @[@(0.0),@(0.5),@(0.8),@(1.0)];
+        k.calculationMode = kCAAnimationLinear;
+        sender.alpha = 1;
+        [sender.layer addAnimation:k forKey:@"SHOW"];
+    }
+
+}
+- (IBAction)addCommentContent:(id)sender {
+    
+    self.CommentCount +=1;
+    
+//    [self.customTableview reloadSections:[NSIndexSet indexSetWithIndex:1] withRowAnimation:UITableViewRowAnimationBottom];
+    [self.customTableview insertRowsAtIndexPaths:[NSArray arrayWithObject:[NSIndexPath indexPathForItem:0 inSection:1]] withRowAnimation:UITableViewRowAnimationBottom];
+    [self.commentField resignFirstResponder];
+    [self.commentsView setHidden:YES];
+    self.customTableview.userInteractionEnabled = YES;
+    [self.addCommentArray addObject:self.commentField.text];
+    
+}
+- (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender{
+    
+    NSLog(@"self.custome.sugue is ok %@",self.customTableview.indexPathForSelectedRow);
+    DetailNewsTableViewCell *cell = [self.customTableview cellForRowAtIndexPath:[NSIndexPath indexPathForItem:self.SelectedRow inSection:self.SelectedSection]];
+    
+
+    
+        if ([segue.identifier isEqualToString:@"goToComment"]) {
+            
+            id destVC = [segue destinationViewController];
+
+            [destVC setValue:cell.CommentContent.text forKey:@"CommentContent"];
+            [destVC setValue:cell.ComentTitle.text forKey:@"ComentTitle"];
+            [destVC setValue:cell.CommentheadImage.image forKey:@"CommentheadImage"];
+            
+            
+        }
+        
+        
+        
+
+    
+}
+- (IBAction)back:(id)sender {
+    
+    UIButton *button = (UIButton*)sender;
+    if (button.tag == 0) {
+        
+        [self.navigationController popViewControllerAnimated:YES];
+    }else{
+//        [UMSocialUIManager showShareMenuViewInWindowWithPlatformSelectionBlock:^(UMSocialPlatformType platformType, NSDictionary *userInfo) {
+//            // 根据获取的platformType确定所选平台进行下一步操作
+//            NSLog(@"友盟分享%@",userInfo);
+//            
+//        }];
+        XMNShareView *shareView = [[XMNShareView alloc] init];
+        //设置头部View 如果不设置则不显示头部
+//        shareView.headerView = headerView;
+        [shareView setSelectedBlock:^(NSUInteger tag, NSString *title) {
+            NSLog(@"\ntag :%lu  \ntitle :%@",(unsigned long)tag,title);
+            
+        }];
+        
+        //计算高度 根据第一行显示的数量和总数,可以确定显示一行还是两行,最多显示2行
+        [shareView setupShareViewWithItems:self.shareAry];
+        
+        [shareView showUseAnimated:YES];
+
+    }
+    
+}
+#pragma mark －－－－－－－－－－－－懒加载－－－－－－－－－－－－－－－－－－－－－－－－－－
+- (NSArray*)shareAry{
+    
+    if (!_shareAry) {
+        
+        _shareAry = @[@{kXMNShareImage:@"more_weixin",
+                       kXMNShareHighlightImage:@"more_weixin_highlighted",
+                       kXMNShareTitle:@"微信好友"},
+                     @{kXMNShareImage:@"more_circlefriends",
+                       kXMNShareHighlightImage:@"more_circlefriends_highlighted",
+                       kXMNShareTitle:@"朋友圈"},
+                     ];
+        
+    }
+    return _shareAry;
+}
+- (NSMutableArray*)addCommentArray{
+    
+    if (!_addCommentArray) {
+        
+        _addCommentArray = [NSMutableArray array];
+    }
+    
+    return _addCommentArray;
+}
+- (NSArray *)NewsTitleArray{
+    
+    if (!_NewsTitleArray) {
+        
+        _NewsTitleArray = @[@"当前中国直销市场的七大特点有哪些",@"直销做对这4件事，你想不成功都难!",@"直销创业事业的好处与优势是什么?",@"直销人，你不是输给互联网，而是输给了不信互联网",@"未来赚钱的行业不是股票、房地产，而是它!",@"直销进入高速发展期，还有一大波利好来袭...",@"党媒首次对直销业重点关注，你还对直销抱有偏见?",@"直销不要做熟人市场，找到志同道合的人更重要",@"马云:电子商务将消失，五大变革引领未来",@"直销行业领衔“新零售”"];
+    }
+    return _NewsTitleArray;
+    
+}
+- (NSArray *)firstContentArray{
+    
+    if (!_firstContentArray) {
+        
+        _firstContentArray = @[@"直销监管是国家赋予工商、市场监管部门的重要职责。《直销管理条例》实施10年来，各级工商部门在国家工商总局的统一部署下，紧紧围绕建立规范、健康、有序的直销市场目标，坚持“合法的给予保护，违法的坚决查处”原则，积极研判新形势下直销市场出现的新特点和新情况，认真履行法定职责，不断提高直销监管水平，直销监管工作取得了阶段性成果",@"在直销创业中，做对的事远比把事情做对更重要。很多人认为，直销很难，既要卖产品，又要开发市场，既要当销售，又要当老板，看似要做的事情很多，其实不然!现实生活中，很多直销人做事没有规划和方向，只顾埋头走路而不抬头看路，因此错过了成功的捷径，倘若他们能做对以下4件事，就不至于走得越快，而离目标越来越远了!直销4件事，具体怎么做?",@"什么是机会?机会就是机遇，就是好的境遇。机遇对每个人都是均等的，有时却不是。有时机会降临到头上，却没有把握住。人生的机遇不会太多，而机遇是留给准备好的人。直销对于我们来说，仍然是个不可多得的机会。",@"30年前，挽起袖子成为第一批万元户，那就是“风口”。20年前，你到沿海城市开一个加工厂，那就是“风口”。10年前，楼市暴富，你随便买几套房，那就是“风口”。今天，你在网上开个淘宝店、蹭蹭网络直播的流量、安装个滴滴打车软件、赶上时下火爆的“大众创业”风潮，那就是“风口”。万科创始人王石说：“你不是输给了互联网，是输给了不信互联网。”互联网革命让传统行业遭遇大洗牌，网上卖产品、卖服务、卖技能开展的如火如荼，而有些人依然看不懂。因此，为什么说直销难民不要抱怨直销难做，那是你不懂互联网思维，因为赢你的根本不是互联网企业或者技术，而是你是否相信有互联网思维",@"自李克强总理提出的“互联网+”概念以来，不论是传统行业的转型还是新兴领域创业，都离不开“互联网+“。互联网的高速发展酝酿了一场经济大爆发，所有行业都将大洗牌，而全民直销时代正在来临…",@"目前中国商业环境普遍缺乏信任，在商业环境被破坏的陌生环境里，传统商业很难有大突破;而直销的优势恰恰就是熟人社会里营销，以口碑为纽带，以社区为传承;中国目前每年有8000万农民工进城，每年也有几百万大学生进入社会，再加上国家实施一系列去产能的政策措施，将有大批工人分流，还有智能化工厂、机器人代替人工等，也将有大批劳动力腾出。富裕的劳动力未来的出口是服务业，因此，直销人口红利至少要“火”十年。在互联网资讯发达的今天，消费者购买前可通过互联网进行比价，购买行为也更加理性。而直销就是迎合了营销扁平化，商业营销里谁离消费者距离最近，谁的利润就最大。",@"1月11日，新华网城市频道正式上线《阳光直销》新闻专题栏目，重点关注直销业的健康发展，贯彻与引领直销行业走向规范发展。据南方网综合报道，新华网《阳光直销》栏目是党政媒体首次对直销行业的重点关注，是新华网对中国直销行业发展的权威报道。因此业内人士称：“这必将促进直销行业在法制化、规范化的道路上健康前行”。",@"如果做直销只能找熟人、产品只能卖给朋友，那你的直销事业永远都别想做大。创业的人都知道，熟人市场是有限的，陌生市场才是无限的。试想一下，如果你开店只有熟人光顾、做生意只有熟人买单、经营直销只有熟人认可...那你的事业还怎么做大、怎么做好?直销不找熟人，如何开发陌生人脉?",@"2016年10月，云栖大会在杭州云溪小镇开幕，大会以“飞天-进化”为主题，讨论云计算发展趋势和蓝图，展现云计算、大数据、人工智能发展生态。在这个世界瞩目的大会上，给人留下最深刻印象的不是大会主题也不是会议地点，而是马云在会上提出的“未来社会五大变革”。会上，阿里巴巴董事局**马云作为东道主发表了主题演讲。他对现在的经济模式做出分析，并对未来社会发展五大变革做出了构想。",@"零售行业曾和房地产、机械制造行业并驾齐驱，同为国民经济发展的支柱行业。但是，随着社会的发展，经济模式和人们的需求发生变革，传统零售行业进入了发展的“冬天”。新零售通俗来讲，就是兼具传统零售行业和互联网技术优势的一种新型零售方式，让丰富的商品库存借助互联网渠道更加快速、便捷得到达消费者手中。"];
+    }
+    return _firstContentArray;
+    
+}
+- (NSArray *)NewsImageArray{
+    
+    if (!_NewsImageArray) {
+        
+        _NewsImageArray = @[@"circle0",@"circle1",@"circle2",@"circle3",@"circle4",@"circle5",@"circle6",@"circle7",@"circle8",@"circle9"];
+        
+    }
+    return _NewsImageArray;
+    
+}
+@end

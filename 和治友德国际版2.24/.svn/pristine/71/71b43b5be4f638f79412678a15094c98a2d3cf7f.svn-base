@@ -1,0 +1,297 @@
+
+/* Class = "UIViewController"; title = "促销"; ObjectID = "1RR-qu-r6y"; */
+"1RR-qu-r6y.title" = "促销";
+
+/* Class = "UILabel"; text = "应用评分或他人评价"; ObjectID = "1nN-ra-6Hq"; */
+"1nN-ra-6Hq.text" = "应用评分或他人评价";
+
+/* Class = "UIViewController"; title = "公告"; ObjectID = "2Dl-Ra-SmS"; */
+"2Dl-Ra-SmS.title" = "公告";
+
+/* Class = "UILabel"; text = "远灯"; ObjectID = "44v-ta-q30"; */
+"44v-ta-q30.text" = "远灯";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "4uM-3Y-x6q"; */
+"4uM-3Y-x6q.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "  写评论..."; ObjectID = "5B0-ak-CYU"; */
+"5B0-ak-CYU.normalTitle" = "  写评论...";
+
+/* Class = "UILabel"; text = "恭候您多时啦！感谢您对平台的关注和喜爱！我们特别为您提供了私信聊天功能，您可以跟喜欢的主播、兴趣相投的小伙伴的距离更近，沟通更顺畅啦！使用添加好友功能，通过搜索TA的昵称，给TA发送加好友申请。申请通过后，您就可以与TA开始愉悦的一对一聊天咯！祝您的生活多姿多彩！快去加个好友体验一下吧^_^"; ObjectID = "5Ms-wc-oMV"; */
+"5Ms-wc-oMV.text" = "恭候您多时啦！感谢您对平台的关注和喜爱！我们特别为您提供了私信聊天功能，您可以跟喜欢的主播、兴趣相投的小伙伴的距离更近，沟通更顺畅啦！使用添加好友功能，通过搜索TA的昵称，给TA发送加好友申请。申请通过后，您就可以与TA开始愉悦的一对一聊天咯！祝您的生活多姿多彩！快去加个好友体验一下吧^_^";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "5St-Ro-wef"; */
+"5St-Ro-wef.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "5sq-aZ-VVE"; */
+"5sq-aZ-VVE.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "评论内容纯属虚构，如有雷同，请视而不见.评论内容纯属虚构，如有雷同，请视而不见"; ObjectID = "6BV-sd-h1I"; */
+"6BV-sd-h1I.text" = "评论内容纯属虚构，如有雷同，请视而不见.评论内容纯属虚构，如有雷同，请视而不见";
+
+/* Class = "UILabel"; text = "02-17 13:49 0条回复 >"; ObjectID = "7Sb-Y8-Os5"; */
+"7Sb-Y8-Os5.text" = "02-17 13:49 0条回复 >";
+
+/* Class = "UIButton"; normalTitle = "  写评论..."; ObjectID = "82P-4V-KkJ"; */
+"82P-4V-KkJ.normalTitle" = "  写评论...";
+
+/* Class = "UIViewController"; title = "通知"; ObjectID = "8yA-kE-HTi"; */
+"8yA-kE-HTi.title" = "通知";
+
+/* Class = "UILabel"; text = "9:00"; ObjectID = "9fM-He-1zH"; */
+"9fM-He-1zH.text" = "9:00";
+
+/* Class = "UILabel"; text = "应用宣传推广情况"; ObjectID = "AJH-j9-A89"; */
+"AJH-j9-A89.text" = "应用宣传推广情况";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "AqK-tf-4Ay"; */
+"AqK-tf-4Ay.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "21~25"; ObjectID = "BLy-3C-hus"; */
+"BLy-3C-hus.text" = "21~25";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Bbc-jo-SsA"; */
+"Bbc-jo-SsA.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "2.您的年龄段？"; ObjectID = "CUY-E6-IRc"; */
+"CUY-E6-IRc.text" = "2.您的年龄段？";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "EIC-cd-Wmw"; */
+"EIC-cd-Wmw.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "用签到开启美好一天"; ObjectID = "EYt-FN-k1u"; */
+"EYt-FN-k1u.text" = "用签到开启美好一天";
+
+/* Class = "UIButton"; normalTitle = "发表"; ObjectID = "F9e-WM-dT2"; */
+"F9e-WM-dT2.normalTitle" = "发表";
+
+/* Class = "UILabel"; text = "来源智创官网"; ObjectID = "FfT-SR-BF7"; */
+"FfT-SR-BF7.text" = "来源智创官网";
+
+/* Class = "UIButton"; normalTitle = "查看全部"; ObjectID = "JBy-ga-GPA"; */
+"JBy-ga-GPA.normalTitle" = "查看全部";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Jue-Du-Vvn"; */
+"Jue-Du-Vvn.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "男"; ObjectID = "Jyc-gz-DQL"; */
+"Jyc-gz-DQL.text" = "男";
+
+/* Class = "UILabel"; text = "26~30"; ObjectID = "LcZ-Wo-aby"; */
+"LcZ-Wo-aby.text" = "26~30";
+
+/* Class = "UIButton"; normalTitle = "回复"; ObjectID = "MHz-JQ-Jgu"; */
+"MHz-JQ-Jgu.normalTitle" = "回复";
+
+/* Class = "UILabel"; text = "8小时前"; ObjectID = "Mxm-uy-ZjL"; */
+"Mxm-uy-ZjL.text" = "8小时前";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Nit-ZN-0ei"; */
+"Nit-ZN-0ei.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "订单支付"; ObjectID = "Np9-XY-Y2M"; */
+"Np9-XY-Y2M.text" = "订单支付";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "Oz7-K6-OZS"; */
+"Oz7-K6-OZS.text" = ">";
+
+/* Class = "UILabel"; text = "正在加载中"; ObjectID = "P9m-uk-fgU"; */
+"P9m-uk-fgU.text" = "正在加载中";
+
+/* Class = "UILabel"; text = "8小时前"; ObjectID = "Pau-1b-NiF"; */
+"Pau-1b-NiF.text" = "8小时前";
+
+/* Class = "UILabel"; text = "50岁以上"; ObjectID = "PlD-6o-or6"; */
+"PlD-6o-or6.text" = "50岁以上";
+
+/* Class = "UILabel"; text = "昨天9:00"; ObjectID = "Q93-vq-S97"; */
+"Q93-vq-S97.text" = "昨天9:00";
+
+/* Class = "UIButton"; normalTitle = "喜欢"; ObjectID = "QGN-kP-zn5"; */
+"QGN-kP-zn5.normalTitle" = "喜欢";
+
+/* Class = "UILabel"; text = "31~40"; ObjectID = "Qfg-Ah-d9Y"; */
+"Qfg-Ah-d9Y.text" = "31~40";
+
+/* Class = "UILabel"; text = "功能实用性"; ObjectID = "Qwj-OQ-8VS"; */
+"Qwj-OQ-8VS.text" = "功能实用性";
+
+/* Class = "UINavigationItem"; title = "评论详情"; ObjectID = "SCn-J8-pJ8"; */
+"SCn-J8-pJ8.title" = "评论详情";
+
+/* Class = "UIButton"; normalTitle = "手机端："; ObjectID = "SOd-uV-3IB"; */
+"SOd-uV-3IB.normalTitle" = "手机端：";
+
+/* Class = "UINavigationItem"; title = "新闻详情"; ObjectID = "SV4-NY-G6h"; */
+"SV4-NY-G6h.title" = "新闻详情";
+
+/* Class = "UILabel"; text = "2014-12-19"; ObjectID = "SdO-zY-PB3"; */
+"SdO-zY-PB3.text" = "2014-12-19";
+
+/* Class = "UILabel"; text = "评论内容纯属虚构，如有雷同，请视而不见.评论内容纯属虚构，如有雷同，请视而不见"; ObjectID = "TeJ-Va-xaJ"; */
+"TeJ-Va-xaJ.text" = "评论内容纯属虚构，如有雷同，请视而不见.评论内容纯属虚构，如有雷同，请视而不见";
+
+/* Class = "UITextField"; placeholder = "优质评论将会被优先展示"; ObjectID = "U1l-6X-Z2k"; */
+"U1l-6X-Z2k.placeholder" = "优质评论将会被优先展示";
+
+/* Class = "UIButton"; normalTitle = "喜欢"; ObjectID = "VWJ-0r-UgY"; */
+"VWJ-0r-UgY.normalTitle" = "喜欢";
+
+/* Class = "UILabel"; text = "签到提醒"; ObjectID = "VdV-5X-LPA"; */
+"VdV-5X-LPA.text" = "签到提醒";
+
+/* Class = "UILabel"; text = "3.您选择下载app通常考虑以下哪些因素？"; ObjectID = "VeW-ke-JjN"; */
+"VeW-ke-JjN.text" = "3.您选择下载app通常考虑以下哪些因素？";
+
+/* Class = "UILabel"; text = "应用是否收费"; ObjectID = "YIw-Ld-jZz"; */
+"YIw-Ld-jZz.text" = "应用是否收费";
+
+/* Class = "UIButton"; normalTitle = "举报"; ObjectID = "Ym4-Iw-ymb"; */
+"Ym4-Iw-ymb.normalTitle" = "举报";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ZPa-yP-AhT"; */
+"ZPa-yP-AhT.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ZSe-ch-axG"; */
+"ZSe-ch-axG.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "尊敬的用户:"; ObjectID = "Zn9-aE-2E2"; */
+"Zn9-aE-2E2.text" = "尊敬的用户:";
+
+/* Class = "UILabel"; text = "查看详情"; ObjectID = "a2n-XZ-Y3Y"; */
+"a2n-XZ-Y3Y.text" = "查看详情";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "acC-wa-z9X"; */
+"acC-wa-z9X.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "资讯"; ObjectID = "akv-46-GX3"; */
+"akv-46-GX3.title" = "资讯";
+
+/* Class = "UILabel"; text = "点击查看"; ObjectID = "arp-q9-AdH"; */
+"arp-q9-AdH.text" = "点击查看";
+
+/* Class = "UIButton"; normalTitle = "喜欢"; ObjectID = "b2I-td-skL"; */
+"b2I-td-skL.normalTitle" = "喜欢";
+
+/* Class = "UILabel"; text = "1.您的性别？"; ObjectID = "brU-aG-ReI"; */
+"brU-aG-ReI.text" = "1.您的性别？";
+
+/* Class = "UILabel"; text = "69条评论"; ObjectID = "cGS-Uq-C3y"; */
+"cGS-Uq-C3y.text" = "69条评论";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "cZX-66-61E"; */
+"cZX-66-61E.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "热烈庆祝邯郸智创荣获风云2014亚太地区直销行业"; ObjectID = "dcs-oB-476"; */
+"dcs-oB-476.text" = "热烈庆祝邯郸智创荣获风云2014亚太地区直销行业";
+
+/* Class = "UILabel"; text = "远灯"; ObjectID = "dgY-hy-QyE"; */
+"dgY-hy-QyE.text" = "远灯";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "enw-Uy-eeS"; */
+"enw-Uy-eeS.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "f70-1i-Bh9"; */
+"f70-1i-Bh9.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "女"; ObjectID = "fFU-sJ-pif"; */
+"fFU-sJ-pif.text" = "女";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gOw-7N-GdY"; */
+"gOw-7N-GdY.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "20岁以下"; ObjectID = "gkz-Y0-lCC"; */
+"gkz-Y0-lCC.text" = "20岁以下";
+
+/* Class = "UILabel"; text = "直销行业在线"; ObjectID = "jHR-Lc-q1r"; */
+"jHR-Lc-q1r.text" = "直销行业在线";
+
+/* Class = "UILabel"; text = "电脑办公超级品类日，钜惠来袭！电脑每满1000减100，投影/打印机每满9999减150，更有千元优惠劵等你来领！"; ObjectID = "jWM-Iz-7lX"; */
+"jWM-Iz-7lX.text" = "电脑办公超级品类日，钜惠来袭！电脑每满1000减100，投影/打印机每满9999减150，更有千元优惠劵等你来领！";
+
+/* Class = "UILabel"; text = "评论内容纯属虚构，如有雷同，请视而不见.评论内容纯属虚构，如有雷同，请视而不见"; ObjectID = "kK0-uQ-kVl"; */
+"kK0-uQ-kVl.text" = "评论内容纯属虚构，如有雷同，请视而不见.评论内容纯属虚构，如有雷同，请视而不见";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "kOT-M0-LbB"; */
+"kOT-M0-LbB.text" = ">";
+
+/* Class = "UITextField"; placeholder = "优质评论将会被优先展示"; ObjectID = "lAQ-xZ-7rW"; */
+"lAQ-xZ-7rW.placeholder" = "优质评论将会被优先展示";
+
+/* Class = "UILabel"; text = "直销类app"; ObjectID = "lSN-GJ-tEZ"; */
+"lSN-GJ-tEZ.text" = "直销类app";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lVW-GC-rsJ"; */
+"lVW-GC-rsJ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "电脑办公超级品类日"; ObjectID = "lfK-6r-sDW"; */
+"lfK-6r-sDW.text" = "电脑办公超级品类日";
+
+/* Class = "UILabel"; text = "10:00"; ObjectID = "lfd-y5-w0J"; */
+"lfd-y5-w0J.text" = "10:00";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "nPk-E3-C47"; */
+"nPk-E3-C47.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "100人赞过>"; ObjectID = "nYX-Gb-dYV"; */
+"nYX-Gb-dYV.text" = "100人赞过>";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "nub-Sz-Sf7"; */
+"nub-Sz-Sf7.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "oHQ-mW-r1v"; */
+"oHQ-mW-r1v.text" = ">";
+
+/* Class = "UIButton"; normalTitle = "发表"; ObjectID = "ofU-Kr-syi"; */
+"ofU-Kr-syi.normalTitle" = "发表";
+
+/* Class = "UILabel"; text = "8小时前"; ObjectID = "ot5-1z-R3a"; */
+"ot5-1z-R3a.text" = "8小时前";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "pZD-eD-cnN"; */
+"pZD-eD-cnN.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "喜欢"; ObjectID = "pk4-4f-hwH"; */
+"pk4-4f-hwH.normalTitle" = "喜欢";
+
+/* Class = "UILabel"; text = "41~50"; ObjectID = "pwj-Ek-HlL"; */
+"pwj-Ek-HlL.text" = "41~50";
+
+/* Class = "UIViewController"; title = "市场调查表"; ObjectID = "q2z-Ss-RQP"; */
+"q2z-Ss-RQP.title" = "市场调查表";
+
+/* Class = "UIButton"; normalTitle = "不喜欢"; ObjectID = "q8R-oU-kXI"; */
+"q8R-oU-kXI.normalTitle" = "不喜欢";
+
+/* Class = "UILabel"; text = "关于健康，你最需要了解的事情是什么"; ObjectID = "r5i-Fc-rKA"; */
+"r5i-Fc-rKA.text" = "关于健康，你最需要了解的事情是什么";
+
+/* Class = "UILabel"; text = "直销类app简介：专门为帮助企业利用智能手机平台开展体验营销或互动而开发的第三方应用程序，通过装在手机上的应用程序来进行品牌宣传、促销、沟通等营销活动，它将是整个移动营销的核心内容之一，是品牌与用户之间形成消费关系的重要渠道，也是连接线上、线下的天然枢纽。"; ObjectID = "rEq-CR-CDT"; */
+"rEq-CR-CDT.text" = "直销类app简介：专门为帮助企业利用智能手机平台开展体验营销或互动而开发的第三方应用程序，通过装在手机上的应用程序来进行品牌宣传、促销、沟通等营销活动，它将是整个移动营销的核心内容之一，是品牌与用户之间形成消费关系的重要渠道，也是连接线上、线下的天然枢纽。";
+
+/* Class = "UILabel"; text = "其他"; ObjectID = "rVm-S1-dHH"; */
+"rVm-S1-dHH.text" = "其他";
+
+/* Class = "UILabel"; text = "您有1笔未支付订单即将失效，再不搞定就成别人家的了，快去看看吧！"; ObjectID = "sa7-Op-IYq"; */
+"sa7-Op-IYq.text" = "您有1笔未支付订单即将失效，再不搞定就成别人家的了，快去看看吧！";
+
+/* Class = "UIViewController"; title = "资讯详情"; ObjectID = "uLP-71-WN5"; */
+"uLP-71-WN5.title" = "资讯详情";
+
+/* Class = "UILabel"; text = "远灯"; ObjectID = "uQ9-vp-uK9"; */
+"uQ9-vp-uK9.text" = "远灯";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "udp-Dx-qf5"; */
+"udp-Dx-qf5.normalTitle" = "Button";
+
+/* Class = "UIViewController"; title = "评论详情"; ObjectID = "vkg-Xa-UA8"; */
+"vkg-Xa-UA8.title" = "评论详情";
+
+/* Class = "UILabel"; text = "关于健康，你最需要了解的事情是什么"; ObjectID = "wrT-A1-VaD"; */
+"wrT-A1-VaD.text" = "关于健康，你最需要了解的事情是什么";
+
+/* Class = "UILabel"; text = "2小时前"; ObjectID = "xa3-rx-P42"; */
+"xa3-rx-P42.text" = "2小时前";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "yES-sj-0EQ"; */
+"yES-sj-0EQ.normalTitle" = "Button";

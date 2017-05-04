@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  和治友德国际版
+
+  Created by Mac on 17/2/24.
+  Copyright © 2017年 com.zhichuang.hezhiyoude. All rights reserved.
+*/
+
+"会员资料查询"="Les données d'interrogation";
+"经营权资料查询"="Droit de gestion de requête de données";
+"收获地址"="La récolte.";
+"修改密码"="Modifier le mot de passe";
+"推荐网"="Réseau de recommandation";
+"安置网"="La réinstallation de réseau";
+"语言切换"="Commutation de langue";
+//资讯barscrollview
+"新闻"="De la presse";
+"促销"="Promotion";
+"公告"="Annonce";
+"通知"="Notification";
+"市场调查"="L'enquête de marché";
+
+//prodcut
+"保健器材"="Appareil de soins de santé";
+"保洁护品"="De produit de nettoyage";
+"化妆品"="Produits cosmétiques";
+"保健药品"="Les soins de santé de médicaments";
+"健康饮品"="Boisson santé";
+"健康含片"="La pastille";
+"其他"="Autres";

@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "提现"; ObjectID = "01w-1a-gIF"; */
+"01w-1a-gIF.text" = "Mentionner";
+
+/* Class = "UILabel"; text = "转账"; ObjectID = "ILQ-83-uzz"; */
+"ILQ-83-uzz.text" = "transfert";
+
+/* Class = "UILabel"; text = "本月"; ObjectID = "aNG-CF-CrQ"; */
+"aNG-CF-CrQ.text" = "mois";
+
+/* Class = "UILabel"; text = "充值"; ObjectID = "aq5-mq-c9U"; */
+"aq5-mq-c9U.text" = "Recharger";
+
+/* Class = "UILabel"; text = "奖金"; ObjectID = "jwN-9Z-mO2"; */
+"jwN-9Z-mO2.text" = "Bonus";
+
+/* Class = "UILabel"; text = "资金动态"; ObjectID = "puF-pl-wQc"; */
+"puF-pl-wQc.text" = "Dynamique";

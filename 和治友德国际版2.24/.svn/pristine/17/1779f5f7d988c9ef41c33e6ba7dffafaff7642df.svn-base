@@ -1,0 +1,302 @@
+
+/* Class = "UILabel"; text = "普卡"; ObjectID = "1lG-Hd-Wto"; */
+"1lG-Hd-Wto.text" = "普卡";
+
+/* Class = "UILabel"; text = "52评论"; ObjectID = "2aa-ub-n42"; */
+"2aa-ub-n42.text" = "52评论";
+
+/* Class = "UILabel"; text = "更多>>"; ObjectID = "2m9-QR-oxc"; */
+"2m9-QR-oxc.text" = "更多>>";
+
+/* Class = "UILabel"; text = "正式获得直销牌照康美药业行业保健品营销有望提速"; ObjectID = "36Y-kp-tC6"; */
+"36Y-kp-tC6.text" = "正式获得直销牌照康美药业行业保健品营销有望提速";
+
+/* Class = "UILabel"; text = "刚刚"; ObjectID = "43E-II-ZOZ"; */
+//"43E-II-ZOZ.text" = "刚刚";
+
+/* Class = "UILabel"; text = "产品名称"; ObjectID = "4Pc-Iz-1rB"; */
+"4Pc-Iz-1rB.text" = "产品名称";
+
+/* Class = "UILabel"; text = "最新资讯"; ObjectID = "5l1-Iz-bcz"; */
+"5l1-Iz-bcz.text" = "最新资讯";
+
+/* Class = "UILabel"; text = "价格"; ObjectID = "6pc-AN-oEK"; */
+"6pc-AN-oEK.text" = "价格";
+
+/* Class = "UINavigationItem"; title = "资讯"; ObjectID = "9Ax-Om-MCc"; */
+//"9Ax-Om-MCc.title" = "资讯";
+
+/* Class = "UILabel"; text = "产品简介"; ObjectID = "9tt-8e-as0"; */
+"9tt-8e-as0.text" = "产品简介";
+
+/* Class = "UILabel"; text = "¥559"; ObjectID = "AKB-p8-SUL"; */
+"AKB-p8-SUL.text" = "¥559";
+
+/* Class = "UILabel"; text = "我的收藏"; ObjectID = "Cu5-yO-Syk"; */
+"Cu5-yO-Syk.text" = "我的收藏";
+
+/* Class = "UILabel"; text = "一级"; ObjectID = "E0L-0H-u5b"; */
+"E0L-0H-u5b.text" = "一级";
+
+/* Class = "UINavigationItem"; title = "我的"; ObjectID = "FBj-qA-ooL"; */
+//"FBj-qA-ooL.title" = "我的";
+
+/* Class = "UINavigationItem"; title = "首页"; ObjectID = "FD0-N0-OAa"; */
+//"FD0-N0-OAa.title" = "首页";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FQA-rC-huN"; */
+"FQA-rC-huN.text" = "Label";
+
+/* Class = "UILabel"; text = "正式获得直销牌照康美药业行业保健品营销有望提速"; ObjectID = "GM6-iH-r53"; */
+"GM6-iH-r53.text" = "正式获得直销牌照康美药业行业保健品营销有望提速";
+
+/* Class = "UILabel"; text = "会员注册"; ObjectID = "H8X-oi-JES"; */
+"H8X-oi-JES.text" = "会员注册";
+
+/* Class = "UILabel"; text = "iOSTest"; ObjectID = "Ksq-dS-UzL"; */
+"Ksq-dS-UzL.text" = "iOSTest";
+
+/* Class = "UITabBarItem"; title = "财务"; ObjectID = "L6a-6l-ZCI"; */
+"L6a-6l-ZCI.title" = "财务";
+
+/* Class = "UIButton"; normalTitle = "退出登录"; ObjectID = "LzK-3k-997"; */
+"LzK-3k-997.normalTitle" = "退出登录";
+
+/* Class = "UILabel"; text = "产品信息"; ObjectID = "MUN-s9-jVj"; */
+"MUN-s9-jVj.text" = "产品信息";
+
+/* Class = "UILabel"; text = "0.00元"; ObjectID = "PCB-uM-uWn"; */
+"PCB-uM-uWn.text" = "0.00元";
+
+/* Class = "UITabBarItem"; title = "首页"; ObjectID = "Q3d-aW-KnO"; */
+"Q3d-aW-KnO.title" = "首页";
+
+/* Class = "UILabel"; text = "+50"; ObjectID = "R0W-Jr-CVg"; */
+"R0W-Jr-CVg.text" = "+50";
+
+/* Class = "UILabel"; text = "周五"; ObjectID = "Rq1-Yf-pPv"; */
+"Rq1-Yf-pPv.text" = "周五";
+
+/* Class = "UILabel"; text = "2000"; ObjectID = "SDf-hG-jub"; */
+"SDf-hG-jub.text" = "2000";
+
+/* Class = "UITabBarItem"; title = "我的"; ObjectID = "SbS-HK-U00"; */
+"SbS-HK-U00.title" = "我的";
+
+/* Class = "UILabel"; text = "荣誉:"; ObjectID = "TOV-Cq-9NI"; */
+"TOV-Cq-9NI.text" = "荣誉:";
+
+/* Class = "UISearchBar"; placeholder = "最新消息"; ObjectID = "Tf9-9f-8fV"; */
+"Tf9-9f-8fV.placeholder" = "最新消息";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UNG-vC-lmk"; */
+"UNG-vC-lmk.text" = "Label";
+
+/* Class = "UILabel"; text = "级别:"; ObjectID = "VIW-jP-UKe"; */
+"VIW-jP-UKe.text" = "级别:";
+
+/* Class = "UILabel"; text = "新闻内容详细介绍说明"; ObjectID = "VhP-PO-1e6"; */
+//"VhP-PO-1e6.text" = "新闻内容详细介绍说明";
+
+/* Class = "UILabel"; text = "正式获得直销牌照康美药业行业保健品营销有望提速"; ObjectID = "WeL-o3-cxH"; */
+"WeL-o3-cxH.text" = "正式获得直销牌照康美药业行业保健品营销有望提速";
+
+/* Class = "UILabel"; text = "特点和特效"; ObjectID = "XUA-gE-Hah"; */
+"XUA-gE-Hah.text" = "特点和特效";
+
+/* Class = "UILabel"; text = "产品名称"; ObjectID = "bYi-FL-IqB"; */
+"bYi-FL-IqB.text" = "产品名称";
+
+/* Class = "UIButton"; normalTitle = "电子币"; ObjectID = "eNQ-lD-O1O"; */
+"eNQ-lD-O1O.normalTitle" = "电子币";
+
+/* Class = "UILabel"; text = "200.00"; ObjectID = "eix-9I-ApG"; */
+"eix-9I-ApG.text" = "200.00";
+
+/* Class = "UILabel"; text = "8:10"; ObjectID = "eqK-WJ-1ME"; */
+"eqK-WJ-1ME.text" = "8:10";
+
+/* Class = "UILabel"; text = "账户余额："; ObjectID = "etr-Kk-ANX"; */
+"etr-Kk-ANX.text" = "账户余额：";
+
+/* Class = "UILabel"; text = "14分钟前"; ObjectID = "fgm-TY-dCh"; */
+"fgm-TY-dCh.text" = "14分钟前";
+
+/* Class = "UITabBarItem"; title = "资讯"; ObjectID = "h4G-Nu-fiU"; */
+//"h4G-Nu-fiU.title" = "资讯";
+
+/* Class = "UITabBarItem"; title = "产品"; ObjectID = "hc2-Q0-6W3"; */
+"hc2-Q0-6W3.title" = "产品";
+
+/* Class = "UILabel"; text = "转账"; ObjectID = "hge-Q8-bez"; */
+"hge-Q8-bez.text" = "转账";
+
+/* Class = "UILabel"; text = "新闻标题"; ObjectID = "kEK-lC-h4D"; */
+//"kEK-lC-h4D.text" = "新闻标题";
+
+/* Class = "UILabel"; text = "更多>>"; ObjectID = "mLH-ya-z6q"; */
+"mLH-ya-z6q.text" = "更多>>";
+
+/* Class = "UILabel"; text = "积分中心"; ObjectID = "pAN-Ls-8H8"; */
+"pAN-Ls-8H8.text" = "积分中心";
+
+/* Class = "UILabel"; text = "的账户 ："; ObjectID = "q8w-JP-ac0"; */
+"q8w-JP-ac0.text" = "的账户 ：";
+
+/* Class = "UINavigationItem"; title = "产品"; ObjectID = "qts-7U-SDw"; */
+//"qts-7U-SDw.title" = "产品";
+
+/* Class = "UILabel"; text = "+0积分"; ObjectID = "r1v-sD-URJ"; */
+"r1v-sD-URJ.text" = "+0积分";
+
+/* Class = "UIButton"; normalTitle = "行业资讯"; ObjectID = "rI4-91-AeX"; */
+"rI4-91-AeX.normalTitle" = "行业资讯";
+
+/* Class = "UILabel"; text = "14分钟前"; ObjectID = "sX8-nk-1zV"; */
+"sX8-nk-1zV.text" = "14分钟前";
+
+/* Class = "UILabel"; text = "最新资讯"; ObjectID = "spI-qf-2vf"; */
+"spI-qf-2vf.text" = "最新资讯";
+
+/* Class = "UILabel"; text = "14分钟前"; ObjectID = "uVv-zm-LFE"; */
+"uVv-zm-LFE.text" = "14分钟前";
+
+/* Class = "UILabel"; text = "个人资料"; ObjectID = "vv2-nK-l6p"; */
+"vv2-nK-l6p.text" = "个人资料";
+
+/* Class = "UINavigationItem"; title = "财务"; ObjectID = "wRZ-0q-Qma"; */
+//"wRZ-0q-Qma.title" = "财务";
+
+/* Class = "UILabel"; text = "行业资讯"; ObjectID = "xYu-mP-2gz"; */
+"xYu-mP-2gz.text" = "行业资讯";
+
+/* Class = "UILabel"; text = "Caoffa"; ObjectID = "zC8-Wm-KR3"; */
+"zC8-Wm-KR3.text" = "Caoffa";
+
+/* Class = "UILabel"; text = "订单中心"; ObjectID = "zci-WT-Ksy"; */
+"zci-WT-Ksy.text" = "订单中心";
+
+//##################################################################################
+//#           AutoGenStrings            2017-02-17 16:58:20
+//##################################################################################
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xic-oe-SeV"; */
+//"xic-oe-SeV.text" = "Label";
+
+//##################################################################################
+//#           AutoGenStrings            2017-02-18 10:45:42
+//##################################################################################
+
+/* Class = "UINavigationController"; title = "新闻资讯的NAV"; ObjectID = "wSK-sJ-A2s"; */
+//"wSK-sJ-A2s.title" = "新闻资讯的NAV";
+
+//##################################################################################
+//#           AutoGenStrings            2017-02-18 14:57:43
+//##################################################################################
+
+/* Class = "UILabel"; text = "2014-12-19"; ObjectID = "GyG-i8-YDL"; */
+//"GyG-i8-YDL.text" = "2014-12-19";
+
+/* Class = "UILabel"; text = "69条评论"; ObjectID = "PPD-kN-OUZ"; */
+//"PPD-kN-OUZ.text" = "69条评论";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QCx-0L-cvT"; */
+//"QCx-0L-cvT.text" = "Label";
+
+/* Class = "UILabel"; text = "热烈庆祝邯郸智创荣获风云2014亚太地区直销行业"; ObjectID = "AZc-kH-vUc"; */
+//"AZc-kH-vUc.text" = "热烈庆祝邯郸智创荣获风云2014亚太地区直销行业";
+
+/* Class = "UILabel"; text = "2小时前"; ObjectID = "SoR-Nm-DGG"; */
+//"SoR-Nm-DGG.text" = "2小时前";
+
+/* Class = "UITextField"; text = "  写评论..."; ObjectID = "7pu-KI-50E"; */
+//"7pu-KI-50E.text" = "  写评论...";
+
+/* Class = "UILabel"; text = "来源智创官网"; ObjectID = "Shh-2o-Nt3"; */
+//"Shh-2o-Nt3.text" = "来源智创官网";
+
+//##################################################################################
+//#           AutoGenStrings            2017-02-18 16:48:35
+//##################################################################################
+
+/* Class = "UILabel"; text = "关于健康，你最需要了解的事情是什么"; ObjectID = "vAq-ar-PXU"; */
+//"vAq-ar-PXU.text" = "关于健康，你最需要了解的事情是什么";
+
+//##################################################################################
+//#           AutoGenStrings            2017-02-20 11:09:24
+//##################################################################################
+
+/* Class = "UITabBarItem"; title = "资讯"; ObjectID = "73X-k4-Nwp"; */
+//"73X-k4-Nwp.title" = "资讯";
+
+//##################################################################################
+//#           AutoGenStrings            2017-02-20 16:00:19
+//##################################################################################
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "hLU-gc-rqP"; */
+//"hLU-gc-rqP.title" = "Item";
+
+//##################################################################################
+//#           AutoGenStrings            2017-02-20 17:58:39
+//##################################################################################
+
+/* Class = "UIViewController"; title = "新闻框架"; ObjectID = "Vwt-Jk-JAr"; */
+"Vwt-Jk-JAr.title" = "新闻框架";
+
+/* Class = "UITabBarItem"; title = "资讯"; ObjectID = "AEy-I7-P3a"; */
+"AEy-I7-P3a.title" = "资讯";
+
+//##################################################################################
+//#           AutoGenStrings            2017-02-24 10:14:33
+//##################################################################################
+
+/* Class = "UILabel"; text = "留言反馈"; ObjectID = "2vW-83-WE3"; */
+"2vW-83-WE3.text" = "留言反馈";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2hG-9Y-ySq"; */
+"2hG-9Y-ySq.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "GbQ-qY-vTO"; */
+"GbQ-qY-vTO.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "零售单"; ObjectID = "rZr-3j-Vav"; */
+"rZr-3j-Vav.text" = "零售单";
+
+/* Class = "UIViewController"; title = "帐户"; ObjectID = "qel-vK-hIZ"; */
+"qel-vK-hIZ.title" = "帐户";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "GfK-2k-F9p"; */
+"GfK-2k-F9p.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "补资格单"; ObjectID = "mwm-nl-7Ia"; */
+"mwm-nl-7Ia.text" = "补资格单";
+
+//##################################################################################
+//#           AutoGenStrings            2017-02-24 10:34:49
+//##################################################################################
+
+/* Class = "UIBarButtonItem"; title = "保存"; ObjectID = "TTl-jE-Kww"; */
+"TTl-jE-Kww.title" = "保存";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "SS2-XX-qdj"; */
+//"SS2-XX-qdj.title" = "返回";
+
+//##################################################################################
+//#           AutoGenStrings            2017-02-25 09:32:48
+//##################################################################################
+
+/* Class = "UINavigationItem"; title = "资讯"; ObjectID = "sWN-PS-tCV"; */
+//"sWN-PS-tCV.title" = "资讯";
+
+//##################################################################################
+//#           AutoGenStrings            2017-02-27 09:27:23
+//##################################################################################
+
+/* Class = "UIViewController"; title = "我的"; ObjectID = "4Em-GJ-XiA"; */
+//"4Em-GJ-XiA.title" = "我的";
+
+/* Class = "UIViewController"; title = "首页"; ObjectID = "rzL-qz-nhv"; */
+//"rzL-qz-nhv.title" = "首页";
+
+/* Class = "UIViewController"; title = "产品"; ObjectID = "4ZQ-Ur-xIA"; */
+//"4ZQ-Ur-xIA.title" = "产品";

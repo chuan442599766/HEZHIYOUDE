@@ -1,0 +1,48 @@
+
+/* Class = "UILabel"; text = "请选择兑换前后的币种后输入兑换金额"; ObjectID = "8D3-Z1-Pig"; */
+"8D3-Z1-Pig.text" = "Veuillez choisir la monnaie de change avant et après ";
+
+/* Class = "UIButton"; normalTitle = "▼"; ObjectID = "A1K-1P-Y49"; */
+"A1K-1P-Y49.normalTitle" = "▼";
+
+/* Class = "UILabel"; text = "!提示:"; ObjectID = "AEp-xr-gvJ"; */
+"AEp-xr-gvJ.text" = "!Pointe:";
+
+/* Class = "UILabel"; text = "获取币种"; ObjectID = "FBG-YN-2d0"; */
+"FBG-YN-2d0.text" = "de la monnaie";
+
+/* Class = "UILabel"; text = "fw(货币账户)  =2000.00"; ObjectID = "OaZ-qS-cXC"; */
+"OaZ-qS-cXC.text" = "fw(Monnaie)  =2000.00";
+
+/* Class = "UILabel"; text = "账户余额"; ObjectID = "PC9-We-xZk"; */
+"PC9-We-xZk.text" = "Solde de compte";
+
+/* Class = "UILabel"; text = "f$(电子账户)=10000.00"; ObjectID = "UMH-sY-fDL"; */
+"UMH-sY-fDL.text" = "f$(électronique)=10000.00";
+
+/* Class = "UILabel"; text = "我想用"; ObjectID = "VfE-ii-txd"; */
+"VfE-ii-txd.text" = "Je veux utiliser";
+
+/* Class = "UILabel"; text = "fv(pv账户)  =2000.00"; ObjectID = "Z0h-RM-Cvh"; */
+"Z0h-RM-Cvh.text" = "fv(pv)  =2000.00";
+
+/* Class = "UILabel"; text = "兑换"; ObjectID = "cch-0T-ZEc"; */
+"cch-0T-ZEc.text" = "Convertible";
+
+/* Class = "UIButton"; normalTitle = "▼"; ObjectID = "gK6-Uq-rgz"; */
+"gK6-Uq-rgz.normalTitle" = "▼";
+
+/* Class = "UILabel"; text = "您将得到"; ObjectID = "lqz-0o-Qa7"; */
+"lqz-0o-Qa7.text" = "Vous aurez";
+
+/* Class = "UIButton"; normalTitle = "提交"; ObjectID = "lz2-Qb-f44"; */
+"lz2-Qb-f44.normalTitle" = "Soumettre";
+
+/* Class = "UILabel"; text = "请输入兑换金额"; ObjectID = "oj0-PO-vmO"; */
+"oj0-PO-vmO.text" = "le montant";
+
+/* Class = "UILabel"; text = "兑换"; ObjectID = "ojh-Ap-2Sg"; */
+"ojh-Ap-2Sg.text" = "Convertible";
+
+/* Class = "UILabel"; text = "请选择兑换币种"; ObjectID = "qkd-j5-r5F"; */
+"qkd-j5-r5F.text" = "change de devises";

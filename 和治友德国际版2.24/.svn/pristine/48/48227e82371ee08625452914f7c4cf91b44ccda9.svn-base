@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "购买金额"; ObjectID = "12Q-2n-cYo"; */
+"12Q-2n-cYo.text" = "Purchase amount";
+
+/* Class = "UILabel"; text = "会员编号"; ObjectID = "Nkb-cT-PLr"; */
+"Nkb-cT-PLr.text" = "Member number";
+
+/* Class = "UITextField"; placeholder = "S385672"; ObjectID = "aLQ-th-zVD"; */
+"aLQ-th-zVD.placeholder" = "S385672";
+
+/* Class = "UILabel"; text = "¥"; ObjectID = "pgo-b0-5wc"; */
+"pgo-b0-5wc.text" = "¥";
+
+/* Class = "UIButton"; normalTitle = "提交"; ObjectID = "tqC-cn-LA8"; */
+"tqC-cn-LA8.normalTitle" = "Submit";
